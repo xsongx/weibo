@@ -1,0 +1,180 @@
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46674 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46674 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54690 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54836 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54836 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 62852 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 63031 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 63031 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71046 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71184 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71184 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 79200 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 79336 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 79336 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 87349 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 87504 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 87504 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 95517 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 95650 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 95650 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 103663 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 103802 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 103802 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111819 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111947 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111947 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 119958 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 120089 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 120089 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128101 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128222 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128222 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 136228 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 136315 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 136315 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 144332 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 144503 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 144503 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 152516 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 152607 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 152607 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 160619 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 160757 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 160757 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168788 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168884 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168884 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 176899 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 177047 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 177047 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 185060 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 185191 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 185191 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 193203 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 193318 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 193318 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 201331 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 201499 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 201502 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 209518 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 209644 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 209644 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 217657 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 217775 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 217775 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 225787 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 225936 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 225936 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 233949 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 234098 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 234099 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 242113 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 242247 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 242247 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 250258 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 250397 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 250397 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 258409 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 258556 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 258556 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 266568 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 266710 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 266710 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 277277 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 277384 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 277385 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 285397 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 285538 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 38707 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 38707 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46723 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46911 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46911 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54932 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 55092 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 21318 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 21318 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 29350 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 29569 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 57146 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 57146 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 65162 INFO   - downloading page https://wx.qq.com/
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 65355 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 65355 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73374 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73573 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 23670 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 23670 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31693 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31870 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43819 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43819 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 51843 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 52096 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 21669 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 21670 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 29702 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 29799 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 25518 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 25519 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 33538 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 33697 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 20425 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 20425 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 28444 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 28679 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31670 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31670 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39689 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39821 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31180 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31180 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39196 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39388 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 27728 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 27728 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 35776 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 35877 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39308 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39516 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41537 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41623 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43655 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43811 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45832 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45979 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45983 DEBUG  - find unread message from:conv_MentorDonald nickname is:Mentor unreadinfo is:1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 47251 DEBUG  - id=1625204634 dialog=Mentor user=MentorDonald content=哈哈哈
+main - org.hibernate.engine.jdbc.spi.SqlExceptionHelper 47566 ERROR  - Data truncation: Incorrect datetime value: '' for column 'time' at row 1
+main - org.hibernate.engine.jdbc.spi.SqlExceptionHelper 1    ERROR  - Data truncation: Incorrect datetime value: '' for column 'time' at row 1
+main - org.hibernate.engine.jdbc.spi.SqlExceptionHelper 0    ERROR  - Data truncation: Incorrect datetime value: '' for column 'time' at row 1
+main - org.hibernate.engine.jdbc.spi.SqlExceptionHelper 0    ERROR  - Data truncation: Incorrect datetime value: '' for column 'time' at row 1
+main - org.hibernate.engine.jdbc.spi.SqlExceptionHelper 0    ERROR  - Data truncation: Incorrect datetime value: '' for column 'time' at row 1
+main - org.hibernate.engine.jdbc.spi.SqlExceptionHelper 0    ERROR  - Data truncation: Incorrect datetime value: '' for column 'time' at row 1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 32525 DEBUG  - 请使用微信扫描二维码以登录 成功扫描 请在手机点击确认以登录
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 32525 DEBUG  - Waiting the user login by the phone
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 40534 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 40683 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 44953 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45160 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45173 DEBUG  - find unread message from:conv_MentorDonald nickname is:Mentor unreadinfo is:1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46555 DEBUG  - id=1625204650 dialog=Mentor user=MentorDonald content=哈哈
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 48788 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 49044 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 51114 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 51343 DEBUG  - login in as user:钟明道

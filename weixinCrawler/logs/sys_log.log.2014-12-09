@@ -1,0 +1,185 @@
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 37533 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 42916 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43019 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45048 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45150 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 47170 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 47288 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 49315 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 49416 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 51444 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 51561 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 53581 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 53697 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 55746 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 55891 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 57917 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 58000 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60018 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60113 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 62122 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 62204 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 64222 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 64320 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 66337 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 66408 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 68423 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 68530 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 70545 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 70671 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 72689 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 72789 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 74814 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 74881 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 74885 DEBUG  - find unread message from:conv_3459684212chatroom nickname is:生生不息 unreadinfo is:1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 76255 DEBUG  - id=1625210403 dialog=生生不息 user=wxid_n3oi87tyi00411 content=我是不是该起床了？
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 33061 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 36886 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 36990 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39013 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39113 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41143 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41234 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43251 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43323 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45344 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 45434 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 47453 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 47581 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 49600 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 49722 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 51749 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 51830 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 53850 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 53942 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 55961 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 56081 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 58099 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 58182 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60192 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60378 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 62460 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 62705 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 64727 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 64836 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 64840 DEBUG  - find unread message from:conv_3459684212chatroom nickname is:生生不息 unreadinfo is:1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 66023 DEBUG  - id=1625210452 dialog=生生不息 user=wxid_n3oi87tyi00411 content=好，我带望远镜，绝对够用
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 68245 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 68429 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 68436 DEBUG  - find unread message from:conv_wxid_x2wn9gxby80a21 nickname is:岳大鹏 unreadinfo is:1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 69578 DEBUG  - id=1024740550 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=国家机关会尽快解决
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71593 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71707 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71712 DEBUG  - id=1024740551 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=呼呼大睡
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73730 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73824 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73828 DEBUG  - id=1024740552 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=科技局
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 75851 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 75926 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 75936 DEBUG  - id=1418112682291 dialog=岳大鹏 user=blog565347185 content=ok
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 77954 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 78059 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 78064 DEBUG  - id=1625210460 dialog=岳大鹏 user=blog565347185 content=ok
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 78064 DEBUG  - id=1024740553 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=阿萨顶
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 80137 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 80220 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 80230 DEBUG  - id=1024740554 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=就好好看哦
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 82313 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 82406 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 84431 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 84504 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 84510 DEBUG  - id=1625210463 dialog=岳大鹏 user=blog565347185 content=怎么办
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 84512 DEBUG  - id=1024740555 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=扣扣聊两句
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 86641 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 86759 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 86768 DEBUG  - id=1024740556 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=男女
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 88856 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 88932 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 88942 DEBUG  - id=1024740557 dialog=岳大鹏 user=wxid_x2wn9gxby80a21 content=女性
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 89009 DEBUG  - find unread message from:conv_wxid_x2wn9gxby80a21 nickname is:岳大鹏 unreadinfo is:1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 92141 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 92266 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 94284 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 94390 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 96417 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 96489 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 98506 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 98579 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 100605 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 100798 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 102854 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 102951 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 104977 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 105067 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 107248 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 107565 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 109587 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 109697 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111773 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111882 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111888 DEBUG  - id=1625210470 dialog=岳大鹏 user=blog565347185 content=更应该是的比较本赛季的办法
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 113906 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 114004 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 116029 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 116130 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 118157 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 118256 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 120280 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 120368 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 122382 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 122462 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 124495 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 124577 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 126591 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 126717 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128730 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128805 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 130832 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 130923 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 132945 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 133080 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 135105 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 135222 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 137242 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 137319 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 139336 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 139403 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 141424 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 141517 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 143543 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 143627 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 145649 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 145735 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 12339 ERROR  - WebDriverException
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9840_9289}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 790e9262061ebc617796be422530effc
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.download(WeixinCrawler.java:314)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:286)
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb?c=spr_qdhz_bd_baidusmt_weibo_s&nick=%E5%86%9B%E6%8A%A5%E8%AE%B0%E8%80%85
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb?c=spr_qdhz_bd_baidusmt_weibo_s&nick=%E5%86%9B%E6%8A%A5%E8%AE%B0%E8%80%85

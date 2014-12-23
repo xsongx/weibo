@@ -1,0 +1,895 @@
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 25329 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31333 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31432 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 33450 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 33537 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 35552 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 35629 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 37648 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 37733 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39753 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39833 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41850 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41936 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 43952 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 44146 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46163 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46241 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 48257 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 48344 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 50357 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 50431 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 52452 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 52531 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54546 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54630 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 56667 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 56755 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 58768 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 58848 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60862 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60946 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 62956 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 63244 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 65258 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 65335 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 67433 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 67505 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 69521 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 69652 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71664 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71740 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73753 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73851 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 75861 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 75942 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 77965 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 78064 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 80074 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 80163 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 82189 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 82278 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 84294 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 84369 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 86388 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 86465 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 88477 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 88547 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 90569 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 90639 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 92666 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 92747 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 94765 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 94841 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 96857 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 96930 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 98948 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 99032 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 101050 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 101132 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 103151 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 103235 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 105252 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 105346 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 107363 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 107449 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 109467 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 109550 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111563 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111641 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 113657 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 113729 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 115751 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 115821 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 117840 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 117924 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 119934 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 119992 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 122009 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 122124 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 124141 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 124237 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 126257 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 126341 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128359 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128449 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 130465 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 130552 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 132569 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 132642 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 134655 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 134728 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 136742 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 136842 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 138860 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 138949 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 140962 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 141040 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 143056 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 143149 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 145165 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 145255 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 147272 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 147347 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 149361 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 149446 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 151460 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 151542 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 153550 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 153617 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 155633 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 155721 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 157731 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 157801 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 159819 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 159894 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 161904 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 161969 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 163984 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 164065 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166074 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166148 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168164 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168253 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 170267 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 170357 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 172371 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 172462 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 172470 DEBUG  - id=1625217065 dialog=生生不息 user=@aabd115f38613aef612e15d513b9dad2fdfce32ce4441a3d48ad34677ed08008 content=白处长要回家了啊？好幸福
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 174884 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 174951 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 176959 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 177021 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 179036 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 179101 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 181124 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 181219 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 181226 DEBUG  - id=1625217066 dialog=生生不息 user=@652b64e5ce54b758a2237d34bf4be125 content=我帮我表弟买广州到长沙的
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 183360 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 183429 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 185454 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 185540 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 187563 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 187665 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 189686 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 189777 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 191799 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 191917 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 193932 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 193997 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 196016 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 196117 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 198139 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 198238 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 200258 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 200369 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 202389 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 202471 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 204487 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 204587 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 206598 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 206697 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 208713 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 208807 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 210831 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 210921 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 212933 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 212995 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 215017 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 215094 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 217112 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 217207 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 219217 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 219293 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 221310 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 221391 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 223408 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 223510 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 225531 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 225620 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 227640 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 227715 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 229731 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 229821 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 231838 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 231924 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 233935 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 234002 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 236022 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 236132 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 238147 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 238244 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 240259 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 240321 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 242343 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 242408 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 244438 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 244512 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 246540 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 246614 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 248636 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 248828 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 250846 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 250942 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 252957 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 253028 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 255036 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 255100 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 257115 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 257188 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 259198 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 259277 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 261293 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 261376 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 263391 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 263479 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 265495 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 265591 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 267609 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 267699 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 269719 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 269795 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 271811 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 271917 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 273942 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 274038 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 276050 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 276122 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 278138 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 278246 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 280266 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 280379 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 282397 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 282492 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 284509 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 284588 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 286604 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 286687 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 288703 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 288797 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 290813 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 290908 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 292928 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 293004 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 295013 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 295076 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 297093 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 297173 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 299202 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 299266 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 301285 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 301358 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 303380 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 303471 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 305487 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 305568 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 307581 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 307686 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 309696 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 309773 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 311791 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 311873 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 313889 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 313976 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 315984 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 316052 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 318060 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 318124 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 320141 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 320238 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 322253 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 322339 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 324351 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 324421 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 326440 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 326505 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 328528 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 328624 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 330643 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 330712 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 332737 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 332831 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 334853 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 334933 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 336949 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 337041 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 339054 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 339122 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 341144 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 341263 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 343283 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 343361 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 345377 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 345467 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 347483 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 347573 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 349591 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 349665 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 351685 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 351759 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 353775 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 353860 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 355877 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 355960 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 357979 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 358055 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 360074 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 360157 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 362170 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 362243 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 364260 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 364343 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 366362 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 366455 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 368473 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 368570 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 370587 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 370680 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 372699 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 372766 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 374788 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 374909 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 376928 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 377026 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 379036 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 379100 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 381117 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 381207 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 383216 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 383283 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 385300 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 385366 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 387388 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 387472 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 389494 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 389577 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 391596 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 391693 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 393706 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 393778 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 395787 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 395849 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 397860 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 397929 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 399940 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 400016 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 402025 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 402095 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 404111 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 404203 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 406223 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 406313 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 408331 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 408424 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 410434 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 410546 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 412562 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 412644 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 414663 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 414739 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 416764 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 416847 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 418877 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 418988 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 421012 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 421247 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 423263 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 423336 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 425357 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 425432 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 427456 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 427527 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 429567 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 429735 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 431752 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 431840 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 433850 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 433918 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 435935 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 436046 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 438068 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 438145 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 440164 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 440257 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 442267 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 442350 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 444366 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 444447 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 446494 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 446591 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 448610 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 448696 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 450719 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 450824 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 452846 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 452942 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 454958 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 455056 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 457072 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 457160 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 457162 DEBUG  - id=1625217068 dialog=生生不息 user=@8a50945949ddeee34a8f05f422bc838d content=
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 459220 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 459294 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 461343 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 461414 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 463433 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 463522 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 465539 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 465634 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 467647 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 467724 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 469745 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 469819 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 471837 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 471926 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 473943 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 474048 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 476066 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 476141 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 478153 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 478235 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 480247 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 480320 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 482339 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 482453 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 484472 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 484547 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 486563 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 486651 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 488669 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 488750 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 490768 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 490873 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 492889 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 492981 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 494999 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 495081 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 497097 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 497182 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 499204 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 499277 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 501293 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 501382 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 503398 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 503486 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 505507 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 505601 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 507617 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 507688 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 509703 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 509801 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 511826 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 511909 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 513932 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 514013 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 516033 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 516116 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 518140 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 518268 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 520281 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 520356 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 522375 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 522458 DEBUG  - login in as user:钟明道
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider huaban.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3094 INFO   - downloading page http://huaban.com/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 11193 INFO   - downloading page http://huaban.com/following/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 13425 INFO   - downloading page http://huaban.com/all/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 16155 INFO   - downloading page http://huaban.com/cc/?md=top
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 16702 INFO   - downloading page http://huaban.com/discovery/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 20539 INFO   - downloading page http://huaban.com/all/videos/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 22585 INFO   - downloading page http://huaban.com/gift/?md=top
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 26614 INFO   - downloading page http://huaban.com/apps/
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider huaban.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3094 INFO   - downloading page http://huaban.com/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 20409 INFO   - downloading page http://huaban.com/following/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 22786 INFO   - downloading page http://huaban.com/discovery/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 24353 INFO   - downloading page http://huaban.com/cc/?md=top
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 25202 INFO   - downloading page http://huaban.com/all/videos/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 28384 INFO   - downloading page http://huaban.com/apps/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 33365 INFO   - downloading page http://huaban.com/all/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 48331 INFO   - downloading page http://huaban.com/gift/?md=top
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 48702 INFO   - downloading page http://huaban.com/activities/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49379 INFO   - downloading page http://huaban.com/weekly/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 59998 INFO   - downloading page http://huaban.com/favorite/home/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 64267 INFO   - downloading page http://huaban.com/favorite/travel_places/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 65869 INFO   - downloading page http://huaban.com/favorite/food_drink/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 68004 INFO   - downloading page http://huaban.com/favorite/diy_crafts/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 72090 INFO   - downloading page http://huaban.com/favorite/wedding_events/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 75926 INFO   - downloading page http://huaban.com/favorite/apparel/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 79727 INFO   - downloading page http://huaban.com/favorite/collocation/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 84458 INFO   - downloading page http://huaban.com/favorite/modeling_hair/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 85025 INFO   - downloading page http://huaban.com/favorite/desire/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 87205 INFO   - downloading page http://huaban.com/favorite/fitness/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 92239 INFO   - downloading page http://huaban.com/favorite/cars_motorcycles/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 96472 INFO   - downloading page http://huaban.com/favorite/men/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 100324 INFO   - downloading page http://huaban.com/favorite/industrial_design/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 101891 INFO   - downloading page http://huaban.com/favorite/illustration/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 105281 INFO   - downloading page http://huaban.com/favorite/design/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 106334 INFO   - downloading page http://huaban.com/favorite/web_app_icon/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 109764 INFO   - downloading page http://huaban.com/favorite/anime/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 119858 INFO   - downloading page http://huaban.com/favorite/games/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 125285 INFO   - downloading page http://huaban.com/favorite/geek/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 125740 INFO   - downloading page http://huaban.com/favorite/architecture/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 127289 INFO   - downloading page http://huaban.com/favorite/pets/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 137954 INFO   - downloading page http://huaban.com/favorite/kids/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 138616 INFO   - downloading page http://huaban.com/favorite/photography/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 143061 INFO   - downloading page http://huaban.com/favorite/quotes/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 145491 INFO   - downloading page http://huaban.com/favorite/art/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 152771 INFO   - downloading page http://huaban.com/favorite/film_music_books/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 157520 INFO   - downloading page http://huaban.com/favorite/people/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 160518 INFO   - downloading page http://huaban.com/favorite/tips/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 165527 INFO   - downloading page http://huaban.com/favorite/education/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 167582 INFO   - downloading page http://huaban.com/favorite/data_presentation/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 169820 INFO   - downloading page http://huaban.com/favorite/sports/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 171039 INFO   - downloading page http://huaban.com/favorite/beauty/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 182463 INFO   - downloading page http://huaban.com/favorite/funny/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 185188 INFO   - downloading page http://huaban.com/favorite/other/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 192399 INFO   - downloading page http://huaban.com/#
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 193483 INFO   - downloading page http://huaban.com/about/goodies/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 205832 INFO   - downloading page http://huaban.com/about/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 208176 INFO   - downloading page http://huaban.com/about/join_us/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 208833 INFO   - downloading page http://huaban.com/pins/53553/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 217282 INFO   - downloading page http://huaban.com/about/#links
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 220275 INFO   - downloading page http://huaban.com/signup/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 220768 INFO   - downloading page http://huaban.com/favorite/apparel/?q=%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E7%9A%84%E7%A7%98%E5%AF%86
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 222678 INFO   - downloading page http://huaban.com/search/boards/?q=banner%E8%AE%BE%E8%AE%A1
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 236658 INFO   - downloading page http://huaban.com/search/?q=%E6%B5%B7%E6%8A%A5&category=design
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 236947 INFO   - downloading page http://huaban.com/search/?q=%E5%A3%81%E7%BA%B8&category=quotes
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 242130 INFO   - downloading page http://huaban.com/search/?q=%E7%8B%97&category=pets
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 252718 INFO   - downloading page http://huaban.com/huaban/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 253176 INFO   - downloading page http://huaban.com/explore/walldecoration/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 261306 INFO   - downloading page http://huaban.com/explore/chaoxianshizhuyisheying/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 267621 INFO   - downloading page http://huaban.com/explore/meishichahua/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 268456 INFO   - downloading page http://huaban.com/explore/meishixiangcunfengfushi/
+pool-1-thread-2 - us.codecraft.webmagic.Spider 271599 ERROR  - process request Request{url='http://huaban.com/favorite/funny/', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 137 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir532_11994}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 77a90348fdf2e05b102ac28075c74ead
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:84)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 272437 INFO   - downloading page http://huaban.com/explore/bianpinghuaBanner/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 273437 INFO   - downloading page http://huaban.com/explore/banmiansheji/
+pool-1-thread-4 - us.codecraft.webmagic.Spider 278876 ERROR  - process request Request{url='http://huaban.com/explore/meishixiangcunfengfushi/', method='null', extras=null, priority=0} error
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.17 seconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir8856_20675}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4d04cba7c60ebd343f2fee656687d2cc
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:84)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 286940 INFO   - downloading page http://huaban.com/explore/jiezhi/
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider huaban.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3287 INFO   - downloading page http://huaban.com/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 106344 INFO   - downloading page http://huaban.com/following/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 108292 INFO   - downloading page http://huaban.com/all/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 109015 INFO   - downloading page http://huaban.com/cc/?md=top
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 111422 INFO   - downloading page http://huaban.com/discovery/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 112785 INFO   - downloading page http://huaban.com/gift/?md=top
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 113939 INFO   - downloading page http://huaban.com/all/videos/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 118500 INFO   - downloading page http://huaban.com/apps/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 124920 INFO   - downloading page http://huaban.com/activities/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 128308 INFO   - downloading page http://huaban.com/weekly/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 128566 INFO   - downloading page http://huaban.com/favorite/home/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 131003 INFO   - downloading page http://huaban.com/favorite/travel_places/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 142645 INFO   - downloading page http://huaban.com/favorite/food_drink/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 148665 INFO   - downloading page http://huaban.com/favorite/diy_crafts/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 152155 INFO   - downloading page http://huaban.com/favorite/wedding_events/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 157953 INFO   - downloading page http://huaban.com/favorite/apparel/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 164046 INFO   - downloading page http://huaban.com/favorite/collocation/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 167154 INFO   - downloading page http://huaban.com/favorite/modeling_hair/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 170395 INFO   - downloading page http://huaban.com/favorite/desire/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 173957 INFO   - downloading page http://huaban.com/favorite/fitness/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 180003 INFO   - downloading page http://huaban.com/favorite/cars_motorcycles/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 188321 INFO   - downloading page http://huaban.com/favorite/men/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 198606 INFO   - downloading page http://huaban.com/favorite/industrial_design/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 198646 INFO   - downloading page http://huaban.com/favorite/illustration/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 205335 INFO   - downloading page http://huaban.com/favorite/design/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 207991 INFO   - downloading page http://huaban.com/favorite/web_app_icon/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 211847 INFO   - downloading page http://huaban.com/favorite/anime/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 218195 INFO   - downloading page http://huaban.com/favorite/games/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 219055 INFO   - downloading page http://huaban.com/favorite/geek/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 223500 INFO   - downloading page http://huaban.com/favorite/architecture/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 224228 INFO   - downloading page http://huaban.com/favorite/pets/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 229935 INFO   - downloading page http://huaban.com/favorite/kids/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 233077 INFO   - downloading page http://huaban.com/favorite/photography/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 235537 INFO   - downloading page http://huaban.com/favorite/quotes/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 239095 INFO   - downloading page http://huaban.com/favorite/art/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 239262 INFO   - downloading page http://huaban.com/favorite/film_music_books/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 239302 INFO   - downloading page http://huaban.com/favorite/people/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 240721 INFO   - downloading page http://huaban.com/favorite/tips/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 250899 INFO   - downloading page http://huaban.com/favorite/education/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 252724 INFO   - downloading page http://huaban.com/favorite/data_presentation/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 255907 INFO   - downloading page http://huaban.com/favorite/sports/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 257996 INFO   - downloading page http://huaban.com/favorite/beauty/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 258679 INFO   - downloading page http://huaban.com/favorite/funny/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 279225 INFO   - downloading page http://huaban.com/favorite/other/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 290532 INFO   - downloading page http://huaban.com/#
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 292305 INFO   - downloading page http://huaban.com/about/goodies/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 298493 INFO   - downloading page http://huaban.com/about/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 304839 INFO   - downloading page http://huaban.com/about/join_us/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 307945 INFO   - downloading page http://huaban.com/pins/53553/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 311071 INFO   - downloading page http://huaban.com/about/#links
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 311273 INFO   - downloading page http://huaban.com/signup/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 311473 INFO   - downloading page http://huaban.com/favorite/apparel/?q=%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E7%9A%84%E7%A7%98%E5%AF%86
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 320502 INFO   - downloading page http://huaban.com/search/boards/?q=banner%E8%AE%BE%E8%AE%A1
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 320602 INFO   - downloading page http://huaban.com/search/?q=%E6%B5%B7%E6%8A%A5&category=design
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 321504 INFO   - downloading page http://huaban.com/search/?q=%E5%A3%81%E7%BA%B8&category=quotes
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 328576 INFO   - downloading page http://huaban.com/search/?q=%E7%8B%97&category=pets
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 329242 INFO   - downloading page http://huaban.com/huaban/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 333098 INFO   - downloading page http://huaban.com/explore/walldecoration/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 334027 INFO   - downloading page http://huaban.com/explore/chaoxianshizhuyisheying/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 342429 INFO   - downloading page http://huaban.com/explore/meishichahua/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 345775 INFO   - downloading page http://huaban.com/explore/meishixiangcunfengfushi/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 349122 INFO   - downloading page http://huaban.com/explore/bianpinghuaBanner/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 349254 INFO   - downloading page http://huaban.com/explore/banmiansheji/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 363761 INFO   - downloading page http://huaban.com/explore/jiezhi/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 364025 INFO   - downloading page http://huaban.com/explore/caisefuzhuangxiaoguotu/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 365640 INFO   - downloading page http://huaban.com/boards/16021737/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 366525 INFO   - downloading page http://huaban.com/a0mzc8tbdq/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 368145 INFO   - downloading page http://huaban.com/i26766/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 368723 INFO   - downloading page http://huaban.com/explore/buzhibu/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 378864 INFO   - downloading page http://huaban.com/explore/changfa/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 380937 INFO   - downloading page http://huaban.com/boards/18547652/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 380967 INFO   - downloading page http://huaban.com/xbm4wdz9zp/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 385807 INFO   - downloading page http://huaban.com/boards/330332/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 387059 INFO   - downloading page http://huaban.com/iiwsp/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 394177 INFO   - downloading page http://huaban.com/yybukn/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 394995 INFO   - downloading page http://huaban.com/explore/rishichahua/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 400844 INFO   - downloading page http://huaban.com/boards/14108788/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 411974 INFO   - downloading page http://huaban.com/lovebunana/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 414583 INFO   - downloading page http://huaban.com/vnrvrzkmyb/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 416460 INFO   - downloading page http://huaban.com/explore/CDfengmian/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 423255 INFO   - downloading page http://huaban.com/explore/fengmiansheji/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 424770 INFO   - downloading page http://huaban.com/cc/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 425422 INFO   - downloading page http://huaban.com/gift/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 428084 INFO   - downloading page http://huaban.com/about/contact/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 433011 INFO   - downloading page http://huaban.com/about/brand/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 439583 INFO   - downloading page http://huaban.com/apps/#iphone
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 445209 INFO   - downloading page http://huaban.com/apps/#android
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 447883 INFO   - downloading page http://huaban.com/apps/#ipad
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 449719 INFO   - downloading page http://huaban.com/apps/?md=top2
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 451917 INFO   - downloading page http://huaban.com/cc/?md=top2
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 460101 INFO   - downloading page http://huaban.com/gift/?md=top2
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 472231 INFO   - downloading page http://huaban.com/about
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 472853 INFO   - downloading page http://huaban.com/about/join_us
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 480249 INFO   - downloading page http://huaban.com/weekly/?md=top2
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 487934 INFO   - downloading page http://huaban.com/oauth/weibo/?_ref=loginPage
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 488906 INFO   - downloading page http://huaban.com/oauth/douban/?_ref=loginPage
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 489296 INFO   - downloading page http://huaban.com/oauth/renren/?_ref=loginPage
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 489856 INFO   - downloading page http://huaban.com/oauth/qzone/?_ref=loginPage
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 490619 INFO   - downloading page http://huaban.com/following/#
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 490665 INFO   - downloading page http://huaban.com/discovery/?md=topnotfication
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 491579 INFO   - downloading page http://huaban.com/all/#
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 493973 INFO   - downloading page http://huaban.com/oauth/weibo/instant_login/?_ref=bar
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 494768 INFO   - downloading page http://huaban.com/oauth/qzone/instant_login/?_ref=bar
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 496336 INFO   - downloading page http://huaban.com/oauth/douban/instant_login/?_ref=bar
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 497428 INFO   - downloading page http://huaban.com/oauth/renren/instant_login/?_ref=bar
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 498020 INFO   - downloading page http://huaban.com/oauth/weibo/instant_login/?_ref=barFloating
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 499731 INFO   - downloading page http://huaban.com/oauth/qzone/instant_login/?_ref=barFloating
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 499780 INFO   - downloading page http://huaban.com/oauth/douban/instant_login/?_ref=barFloating
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 501722 INFO   - downloading page http://huaban.com/oauth/renren/instant_login/?_ref=barFloating
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 502245 INFO   - downloading page http://huaban.com/explore/walldecoration/?md=newbn&all
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 503119 INFO   - downloading page http://huaban.com/boards/3216274/?md=newbn&all
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 505734 INFO   - downloading page http://huaban.com/explore/zazhifengmian/?md=newbn&quotes
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 509722 INFO   - downloading page http://huaban.com/explore/victoriassecret/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 509874 INFO   - downloading page http://huaban.com/explore/shafa//?md=newbn&all
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 511926 INFO   - downloading page http://huaban.com/explore/huatong/?md=newbn&all
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 514128 INFO   - downloading page http://huaban.com/ever-smiling/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 518589 INFO   - downloading page http://huaban.com/boards/18154948
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 519211 INFO   - downloading page http://huaban.com/pins/294012306/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 525084 INFO   - downloading page http://huaban.com/boards/18154948/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 526119 INFO   - downloading page http://huaban.com/juneflish/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 532412 INFO   - downloading page http://huaban.com/boards/14516226
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 534707 INFO   - downloading page http://huaban.com/pins/294012179/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 536377 INFO   - downloading page http://huaban.com/boards/14516226/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 537360 INFO   - downloading page http://huaban.com/ysqr316167761/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 540809 INFO   - downloading page http://huaban.com/boards/17706703
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 541466 INFO   - downloading page http://huaban.com/pins/294012206/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 541619 INFO   - downloading page http://huaban.com/boards/17706703/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 544503 INFO   - downloading page http://huaban.com/xtpvxviq9i/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 548658 INFO   - downloading page http://huaban.com/boards/18517494
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 548711 INFO   - downloading page http://huaban.com/pins/294012178/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 551885 INFO   - downloading page http://huaban.com/boards/18517494/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 554457 INFO   - downloading page http://huaban.com/firflyaway12365/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 557205 INFO   - downloading page http://huaban.com/boards/13972734
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 558166 INFO   - downloading page http://huaban.com/pins/294012187/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 565360 INFO   - downloading page http://huaban.com/boards/13972734/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 565617 INFO   - downloading page http://huaban.com/z8tdu4p2g0/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 566313 INFO   - downloading page http://huaban.com/boards/14114411
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 566807 INFO   - downloading page http://huaban.com/pins/294012207/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 574496 INFO   - downloading page http://huaban.com/boards/14114411/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 581290 INFO   - downloading page http://huaban.com/pins/294012231/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 583358 INFO   - downloading page http://huaban.com/search/?q=萌货
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 587585 INFO   - downloading page http://huaban.com/winnie3777/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 588600 INFO   - downloading page http://huaban.com/boards/14075988
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 589122 INFO   - downloading page http://huaban.com/pins/294012290/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 592938 INFO   - downloading page http://huaban.com/boards/14075988/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 594236 INFO   - downloading page http://huaban.com/b9j9btpx6z/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 602765 INFO   - downloading page http://huaban.com/boards/2100303
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 604319 INFO   - downloading page http://huaban.com/pins/294012193/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 604728 INFO   - downloading page http://huaban.com/boards/2100303/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 610751 INFO   - downloading page http://huaban.com/u6aeg941pzw/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 611391 INFO   - downloading page http://huaban.com/boards/18807994
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 613736 INFO   - downloading page http://huaban.com/pins/294012189/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 616770 INFO   - downloading page http://huaban.com/boards/18807994/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 620436 INFO   - downloading page http://huaban.com/pweojv5jg0/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 621070 INFO   - downloading page http://huaban.com/boards/18824377
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 625128 INFO   - downloading page http://huaban.com/pins/294012239/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 626948 INFO   - downloading page http://huaban.com/boards/18824377/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 627230 INFO   - downloading page http://huaban.com/tig5jlojlt/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 627988 INFO   - downloading page http://huaban.com/boards/18612844
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 632615 INFO   - downloading page http://huaban.com/pins/294012228/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 633872 INFO   - downloading page http://huaban.com/boards/18612844/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 639034 INFO   - downloading page http://huaban.com/uyxtsgftfs/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 640335 INFO   - downloading page http://huaban.com/boards/16274576
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 643036 INFO   - downloading page http://huaban.com/pins/294012188/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 645163 INFO   - downloading page http://huaban.com/boards/16274576/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 647353 INFO   - downloading page http://huaban.com/pm4lpg0u8e/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 647623 INFO   - downloading page http://huaban.com/boards/18798569
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 653429 INFO   - downloading page http://huaban.com/pins/294012303/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 656388 INFO   - downloading page http://huaban.com/boards/18798569/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 656856 INFO   - downloading page http://huaban.com/mr6b9v1ahd/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 660024 INFO   - downloading page http://huaban.com/boards/14332237
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 665793 INFO   - downloading page http://huaban.com/pins/294012250/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 667996 INFO   - downloading page http://huaban.com/boards/14332237/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 671238 INFO   - downloading page http://huaban.com/zhuangzhidie2006/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 673428 INFO   - downloading page http://huaban.com/boards/18450784
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 677050 INFO   - downloading page http://huaban.com/pins/294012182/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 679580 INFO   - downloading page http://huaban.com/boards/18450784/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 681407 INFO   - downloading page http://huaban.com/k363e9p3bx6/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 683577 INFO   - downloading page http://huaban.com/boards/18824450
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 684337 INFO   - downloading page http://huaban.com/pins/294012295/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 689041 INFO   - downloading page http://huaban.com/boards/18824450/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 689076 INFO   - downloading page http://huaban.com/zhang_zhang6727/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 690088 INFO   - downloading page http://huaban.com/boards/16344390
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 694248 INFO   - downloading page http://huaban.com/pins/294012240/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 697394 INFO   - downloading page http://huaban.com/boards/16344390/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 698507 INFO   - downloading page http://huaban.com/az4eajxo3d/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 699850 INFO   - downloading page http://huaban.com/boards/18804339
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 709919 INFO   - downloading page http://huaban.com/pins/294012286/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 710732 INFO   - downloading page http://huaban.com/search/?q=影视
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 712800 INFO   - downloading page http://huaban.com/boards/18804339/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 714070 INFO   - downloading page http://huaban.com/ok3cxuwl8d/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 714398 INFO   - downloading page http://huaban.com/boards/18549020
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 717813 INFO   - downloading page http://huaban.com/pins/294012176/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 721743 INFO   - downloading page http://huaban.com/boards/18549020/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 721752 INFO   - downloading page http://huaban.com/all/videos/#
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3628 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6203 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:57)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 6211 INFO   - Quit webDriverChromeDriver: chrome on XP (5b66a1219b1ccc91b1b1486c8d11cb8d)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2650 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 5340 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:57)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5344 INFO   - Quit webDriverChromeDriver: chrome on XP (595a77090d27845c597b52f60726e7fb)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2809 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 4854 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:57)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4863 INFO   - Quit webDriverChromeDriver: chrome on XP (51f1d69fa26e34c73962c89e5483c0d8)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2619 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 4816 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:57)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4827 INFO   - Quit webDriverChromeDriver: chrome on XP (037387b2bb8dc056e50992dd7baf5825)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2280 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 4508 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:57)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4512 INFO   - Quit webDriverChromeDriver: chrome on XP (ed9cab938ea0f536b3d45c65974b5128)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2610 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5641 INFO   - Quit webDriverChromeDriver: chrome on XP (2d3e35a3035497b9790d4b2d5ca94569)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2588 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 35800 INFO   - Quit webDriverChromeDriver: chrome on XP (4a6b3baf39b5f21c1321942505bb299a)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2648 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 36010 INFO   - Quit webDriverChromeDriver: chrome on XP (6dd4c53349cdfb4e489617cfa270b1e0)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2854 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4950 INFO   - Quit webDriverChromeDriver: chrome on XP (f8460658df6a134a599009eb3584a093)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2920 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5125 INFO   - Quit webDriverChromeDriver: chrome on XP (05332cbb69cdbd081a16f8e731cd63d5)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2019 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4138 INFO   - Quit webDriverChromeDriver: chrome on XP (bb7623e6ef150474cc9f80399e84e10b)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3011 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4989 INFO   - Quit webDriverChromeDriver: chrome on XP (59f1c1f9cfb6f5b47ae390c553111680)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2685 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5048 INFO   - Quit webDriverChromeDriver: chrome on XP (0513d20978928f72bcb1cb86a48e1fc9)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2748 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 40820 INFO   - Quit webDriverChromeDriver: chrome on XP (1badd8c57ab083cafddfecacbde0dfc0)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2886 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 36599 INFO   - Quit webDriverChromeDriver: chrome on XP (262ac05118ec5473990cbbfcb468cb62)

@@ -1,0 +1,751 @@
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3034 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6747 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:58)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2928 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6553 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:58)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2844 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 7432 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:58)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2902 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6687 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:58)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3515 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 7413 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:63)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3002 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 7256 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:63)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 0    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 18991 DEBUG  - login in as user:钟明道
+main - org.hibernate.tool.hbm2ddl.SchemaUpdate 24771 ERROR  - HHH000319: Could not get database metadata
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.SocketException
+MESSAGE: java.net.SocketException: Invalid argument: connect
+
+STACKTRACE:
+
+java.net.SocketException: java.net.SocketException: Invalid argument: connect
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:284)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2541)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1474)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:193)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:497)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1744)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1782)
+	at cn.edu.nudt.nlp.crawler.HibernateUtil.<clinit>(HibernateUtil.java:15)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.getMessageFromDialog(WeixinCrawler.java:208)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.process(WeixinCrawler.java:112)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.main(WeixinCrawler.java:285)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2607)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1474)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:193)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:497)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1744)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1782)
+	at cn.edu.nudt.nlp.crawler.HibernateUtil.<clinit>(HibernateUtil.java:15)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.getMessageFromDialog(WeixinCrawler.java:208)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.process(WeixinCrawler.java:112)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.main(WeixinCrawler.java:285)
+main - org.hibernate.tool.hbm2ddl.SchemaUpdate 24774 ERROR  - HHH000299: Could not complete schema update
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.SocketException
+MESSAGE: java.net.SocketException: Invalid argument: connect
+
+STACKTRACE:
+
+java.net.SocketException: java.net.SocketException: Invalid argument: connect
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:284)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2541)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1474)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:193)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:497)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1744)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1782)
+	at cn.edu.nudt.nlp.crawler.HibernateUtil.<clinit>(HibernateUtil.java:15)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.getMessageFromDialog(WeixinCrawler.java:208)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.process(WeixinCrawler.java:112)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.main(WeixinCrawler.java:285)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2607)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1474)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:193)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:497)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1744)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1782)
+	at cn.edu.nudt.nlp.crawler.HibernateUtil.<clinit>(HibernateUtil.java:15)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.getMessageFromDialog(WeixinCrawler.java:208)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.process(WeixinCrawler.java:112)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.main(WeixinCrawler.java:285)
+main - org.hibernate.engine.jdbc.spi.SqlExceptionHelper 25920 ERROR  - Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.SocketException
+MESSAGE: java.net.SocketException: Invalid argument: connect
+
+STACKTRACE:
+
+java.net.SocketException: java.net.SocketException: Invalid argument: connect
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:284)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2541)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1474)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:193)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:281)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:160)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1396)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.getMessageFromDialog(WeixinCrawler.java:209)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.process(WeixinCrawler.java:112)
+	at cn.edu.nudt.nlp.crawler.WeixinCrawler.main(WeixinCrawler.java:285)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 1    INFO   - downloading page https://wx.qq.com
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 16901 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 20841 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 20933 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 22953 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 23040 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 25053 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 25133 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 27146 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 27247 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 29262 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 29340 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31352 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 31438 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 33448 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 33527 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 35542 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 35617 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 37627 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 37696 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39708 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 39881 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41892 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 41982 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 44002 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 44087 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46098 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 46200 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 48226 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 48287 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 50298 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 50389 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 52415 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 52509 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54560 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 54629 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 56639 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 56721 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 58740 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 58810 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60826 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 60899 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 62940 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 63010 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 65022 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 65110 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 67129 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 67201 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 69231 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 69300 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71309 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 71377 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73395 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 73468 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 75478 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 75650 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 77657 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 77723 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 79736 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 79812 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 81826 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 81892 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 83903 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 83984 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 85994 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 86076 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 88085 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 88158 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 90174 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 90256 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 92265 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 92331 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 94339 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 94408 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 96421 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 96489 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 98498 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 98564 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 98574 DEBUG  - id=1625211822 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=正在爬微信
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 98660 DEBUG  - id=1625211823 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=做测试抓数据
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 100843 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 100917 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 102928 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 103028 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 105040 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 105108 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 107124 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 107217 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 109239 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 109332 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 109339 DEBUG  - id=1625211824 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=抓数据
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111352 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 111437 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 113448 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 113538 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 115550 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 115622 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 117634 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 117737 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 119746 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 119819 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 121828 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 121947 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 123986 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 124063 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 124066 DEBUG  - id=1625211825 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=test1
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 126150 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 126229 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128242 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 128308 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 130324 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 130388 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 130395 DEBUG  - id=1418315828925 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=文件传输
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 132489 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 132617 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 132628 DEBUG  - id=1625211826 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=文件传输
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 134639 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 134800 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 134804 DEBUG  - id=1625211828 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=群聊
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 136825 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 136894 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 138912 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 138992 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 139000 DEBUG  - id=1625211829 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=一切正常
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 141103 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 141244 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 143260 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 143352 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 143362 DEBUG  - id=1625211830 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=晚安
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 145380 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 145453 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 147471 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 147553 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 149570 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 149653 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 151666 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 151735 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 153746 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 153855 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 155875 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 155954 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 157972 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 158068 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 160078 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 160149 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 162162 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 162277 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 164288 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 164364 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 164371 DEBUG  - id=1418315862960 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=517晚安
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166430 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166497 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166506 DEBUG  - id=1625211831 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=517晚安
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168517 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168593 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 170606 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 170682 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 172698 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 172770 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 174797 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 174873 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 176902 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 176975 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 179001 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 179090 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 179099 DEBUG  - id=1625211832 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=main - cn.edu.nudt.nlp.crawler.WeixinCrawler 157972 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat main - cn.edu.nudt.nlp.crawler.WeixinCrawler 158068 DEBUG  - login in as user:钟明道 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 160078 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat main - cn.edu.nudt.nlp.crawler.WeixinCrawler 160149 DEBUG  - login in as user:钟明道 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 162162 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat main - cn.edu.nudt.nlp.crawler.WeixinCrawler 162277 DEBUG  - login in as user:钟明道 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 164288 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat main - cn.edu.nudt.nlp.crawler.WeixinCrawler 164364 DEBUG  - login in as user:钟明道 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 164371 DEBUG  - id=1418315862960 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=517晚安 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166430 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166497 DEBUG  - login in as user:钟明道 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 166506 DEBUG  - id=1625211831 dialog=517 user=@2038617fefe8cd887d9211ebf6b6ab99 content=517晚安 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168517 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat main - cn.edu.nudt.nlp.crawler.WeixinCrawler 168593 DEBUG  - login in as user:钟明道 main - cn.edu.nudt.nlp.crawler.WeixinCrawler 170606 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat main - cn.edu.nudt.nlp.crawler.WeixinCrawler 170682 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 181177 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 181248 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 183276 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 183433 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 185448 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 185550 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 187569 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 187643 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 189659 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 189744 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 191766 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 191855 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 193874 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 193962 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 195976 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 196061 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 198132 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 198222 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 200236 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 200318 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 202345 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 202425 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 204444 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 204526 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 206542 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 206645 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 208660 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 208735 DEBUG  - login in as user:钟明道
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 210749 INFO   - downloading page https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxindex?t=chat
+main - cn.edu.nudt.nlp.crawler.WeixinCrawler 210824 DEBUG  - login in as user:钟明道
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 9628 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 19595 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:59)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 4922 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 12363 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:59)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 4545 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 10000 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:59)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 5113 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 25170 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:71)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 6620 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 29930 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 134 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir92780_3113}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cca37069485eb6af9b0362e5afb861dd
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:61)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 6474 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 21187 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //div[@class='WB_detail']/div[@class='WB_from S_txt2']/vlaue=href because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 131 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir91196_2174}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: abd0fb7e14213be529d34fee305b3827
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:61)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 4547 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 19951 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 238 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir92508_8868}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b741936b11774be88d8901081ea7ae7c
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:61)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2750 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 12847 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 151 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir93992_17267}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0c246016ba8dc1eb2279a41186927383
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:61)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3004 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 12239 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir88192_24821}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3dd80f530e835310064ba960f7c28d2e
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:61)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 901  ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:65)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 5    INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 802  ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:65)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 891  ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:65)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3068 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3156 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 16218 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 76 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir93120_28405}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0076e6fd17fec21a6bcd7de287fdb930
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:63)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 44   INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 1524 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:105)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:60)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 5372 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 24076 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 96 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: '2013-0317-2340', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir6480_19657}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=34.0.1847.131, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4d7258f2e0007639edb03ae05fda89e3
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:63)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)

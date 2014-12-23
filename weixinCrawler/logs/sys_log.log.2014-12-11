@@ -1,0 +1,185 @@
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.Spider 397  ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:64)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.Spider 133  ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.IllegalStateException: The driver executable does not exist: d:\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:64)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 7466 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 22692 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 22706 INFO   - Quit webDriverChromeDriver: chrome on XP (17825ccf3e73f733185d4a3e4ef4fff6)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3540 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 46001 INFO   - Quit webDriverChromeDriver: chrome on XP (ab9ca6d981eea3d2080b393dbdfc04e8)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3168 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 8740 INFO   - Quit webDriverChromeDriver: chrome on XP (8e7e1ebaaed3cce015652b13aca7279f)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3458 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 7975 INFO   - Quit webDriverChromeDriver: chrome on XP (0c048fff4f95828a92ca1b8c1acd9e70)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3090 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 7922 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 7932 INFO   - Quit webDriverChromeDriver: chrome on XP (2ee72f99c6495cbe8eadd2e4e818ce33)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2888 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6682 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 6686 INFO   - Quit webDriverChromeDriver: chrome on XP (522651416fae6e7f5b382ef1529eafdb)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2729 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 10182 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 10185 INFO   - Quit webDriverChromeDriver: chrome on XP (5f1062495a61136d78ba8b729dee8f97)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2708 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6951 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 6962 INFO   - Quit webDriverChromeDriver: chrome on XP (8ed6ef9c71e3830a336d2b188dc4ed23)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3444 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 13322 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 13343 INFO   - Quit webDriverChromeDriver: chrome on XP (fd59892e3faef8099dac16c49052a56a)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2476 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 8598 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2950 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 7411 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3284 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 7224 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:55)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3278 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6981 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:56)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2938 INFO   - downloading page http://weibo.com/jfjb#_loginLayer_1417425104080
+pool-1-thread-1 - us.codecraft.webmagic.Spider 6757 ERROR  - process request Request{url='http://weibo.com/jfjb#_loginLayer_1417425104080', method='null', extras=null, priority=0} error
+java.lang.UnsupportedOperationException
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:56)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)

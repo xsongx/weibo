@@ -1,0 +1,65 @@
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 11   INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 9    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 16   INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 8    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 8    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 10   INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 7    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 15   INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 181  INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 50   INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 1402 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalArgumentException: regex must not be empty
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:27)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:45)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.process(WeiboCrawler.java:54)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com/jfjb started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.HttpClientDownloader 6    INFO   - downloading page http://weibo.com/jfjb
