@@ -84,6 +84,15 @@ public class JfjbWeiboCrawler implements PageProcessor {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		SinaWeibo weibo = new SinaWeibo("xsongx", "jiajia20090924");
+        if(weibo.login()) {
+            System.out.println("登陆成功！");
+            //String url = "http://www.weibo.com/hm";
+            //          String source = MyUrlUtil.getResource(url);
+            //          System.out.println(source);
+        } else {
+            System.out.println("登录失败！");
+        }
 		// TODO Auto-generated method stub
 		SeleniumDownloader downlder=new SeleniumDownloader("/media/work/gitbase/chromedriver");
 		downlder.setSleepTime(4000);
