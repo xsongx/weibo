@@ -1,175 +1,76 @@
-main - cn.edu.nudt.nlp.crawler.WeiboCrawler 1    ERROR  - WebDriverException
-org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 70435 INFO   - Quit webDriverChromeDriver: chrome on LINUX (fd1ca36de0a9a6ae4ab9e2b9530a9a00)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49300 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 26251 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 356712 INFO   - Quit webDriverChromeDriver: chrome on LINUX (cc19b0a4b8ac8bb2267b84e13ad6caa0)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2263 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5405 INFO   - Quit webDriverChromeDriver: chrome on LINUX (b13ff174dc2d21f71e97571877bd6cab)
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 0    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1759 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4654 INFO   - Quit webDriverChromeDriver: chrome on LINUX (2846d33521402dd78fcdd66299c54351)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2288 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5251 INFO   - Quit webDriverChromeDriver: chrome on LINUX (40901cb96db46cced424870deffd669f)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2174 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 51841 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 180560 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 26262 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 21899 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 70850 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=39.0.2171.95)
+  (Driver info: chromedriver=2.13.307649 (bf55b442bb6b5c923249dd7870d6a107678bfbb6),platform=Linux 3.11.0-20-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
 System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.<init>(WeiboCrawler.java:77)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:207)
-Caused by: org.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:165)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:62)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
-	... 9 more
-Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:18031/status] to be available after 20008 ms
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:104)
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:163)
-	... 11 more
-Caused by: com.google.common.util.concurrent.UncheckedTimeoutException: java.util.concurrent.TimeoutException
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:143)
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:79)
-	... 12 more
-Caused by: java.util.concurrent.TimeoutException
-	at java.util.concurrent.FutureTask.get(FutureTask.java:201)
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:130)
-	... 13 more
-main - cn.edu.nudt.nlp.crawler.WeiboCrawler 2    ERROR  - WebDriverException
-org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.<init>(WeiboCrawler.java:77)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:207)
-Caused by: org.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:165)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:62)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
-	... 9 more
-Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:6748/status] to be available after 20003 ms
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:104)
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:163)
-	... 11 more
-Caused by: com.google.common.util.concurrent.UncheckedTimeoutException: java.util.concurrent.TimeoutException
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:143)
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:79)
-	... 12 more
-Caused by: java.util.concurrent.TimeoutException
-	at java.util.concurrent.FutureTask.get(FutureTask.java:201)
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:130)
-	... 13 more
-main - cn.edu.nudt.nlp.crawler.WeiboCrawler 1    ERROR  - WebDriverException
-org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.<init>(WeiboCrawler.java:77)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:207)
-Caused by: org.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:165)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:62)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
-	... 9 more
-Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:20254/status] to be available after 20007 ms
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:104)
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:163)
-	... 11 more
-Caused by: com.google.common.util.concurrent.UncheckedTimeoutException: java.util.concurrent.TimeoutException
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:143)
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:79)
-	... 12 more
-Caused by: java.util.concurrent.TimeoutException
-	at java.util.concurrent.FutureTask.get(FutureTask.java:201)
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:130)
-	... 13 more
-main - cn.edu.nudt.nlp.crawler.WeiboCrawler 1    ERROR  - WebDriverException
-org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.<init>(WeiboCrawler.java:77)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:207)
-Caused by: org.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:165)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:62)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
-	... 9 more
-Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:19817/status] to be available after 20004 ms
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:104)
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:163)
-	... 11 more
-Caused by: com.google.common.util.concurrent.UncheckedTimeoutException: java.util.concurrent.TimeoutException
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:143)
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:79)
-	... 12 more
-Caused by: java.util.concurrent.TimeoutException
-	at java.util.concurrent.FutureTask.get(FutureTask.java:201)
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:130)
-	... 13 more
-main - cn.edu.nudt.nlp.crawler.WeiboCrawler 3    ERROR  - WebDriverException
-org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.<init>(WeiboCrawler.java:77)
-	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:207)
-Caused by: org.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
-Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
-System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:165)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:62)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
-	... 9 more
-Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:22368/status] to be available after 20017 ms
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:104)
-	at org.openqa.selenium.remote.service.DriverService.start(DriverService.java:163)
-	... 11 more
-Caused by: com.google.common.util.concurrent.UncheckedTimeoutException: java.util.concurrent.TimeoutException
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:143)
-	at org.openqa.selenium.net.UrlChecker.waitUntilAvailable(UrlChecker.java:79)
-	... 12 more
-Caused by: java.util.concurrent.TimeoutException
-	at java.util.concurrent.FutureTask.get(FutureTask.java:201)
-	at com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:130)
-	... 13 more
+Session ID: 461cb34edc6ebd063703f2ebc277352a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.z5v2NY}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=39.0.2171.95, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getAttribute(RemoteWebElement.java:123)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:85)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 11872 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 55427 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 313568 INFO   - Quit webDriverChromeDriver: chrome on LINUX (08ee7d5188f1f9177ae5ae4cec31e6fb)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1747 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4832 INFO   - Quit webDriverChromeDriver: chrome on LINUX (98c761efb83c520f6fc470f69bcde473)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+Thread-1 - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2155 INFO   - downloading page http://weibo.com/jfjb
+Thread-1 - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4979 INFO   - Quit webDriverChromeDriver: chrome on LINUX (4653113dfb30d1eec4fb1f84a6f5498e)
+Thread-1 - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1772 INFO   - downloading page http://weibo.com/jfjb
+Thread-1 - us.codecraft.webmagic.downloader.selenium.WebDriverPool 6747 INFO   - Quit webDriverChromeDriver: chrome on LINUX (3128b1b8dbd1e23e3a30f35e78b08bf4)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1603 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 10977 INFO   - Quit webDriverChromeDriver: chrome on LINUX (a0896be145220a40a21db0c46785935e)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2119 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 11984 INFO   - Quit webDriverChromeDriver: chrome on LINUX (208107093bd5946e73d526a84621940b)

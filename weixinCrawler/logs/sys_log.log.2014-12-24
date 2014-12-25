@@ -1,0 +1,360 @@
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 3    ERROR  - WebDriverException
+org.openqa.selenium.WebDriverException: unknown error: Chrome version must be >= 38.0.2125.0
+  (Driver info: chromedriver=2.13.307649 (bf55b442bb6b5c923249dd7870d6a107678bfbb6),platform=Linux 3.11.0-20-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.60 seconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.<init>(WeiboCrawler.java:77)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:207)
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 2    ERROR  - WebDriverException
+org.openqa.selenium.WebDriverException: unknown error: Chrome version must be >= 38.0.2125.0
+  (Driver info: chromedriver=2.13.307649 (bf55b442bb6b5c923249dd7870d6a107678bfbb6),platform=Linux 3.11.0-20-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.56 seconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'xsongx-ThinkPad', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.11.0-20-generic', java.version: '1.7.0_67'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:59)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.<init>(WeiboCrawler.java:77)
+	at cn.edu.nudt.nlp.crawler.WeiboCrawler.main(WeiboCrawler.java:207)
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 1    INFO   - downloading page http://weibo.com/jfjb
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 0    INFO   - downloading page http://weibo.com/jfjb
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 0    INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 1198 INFO   - Spider null started!
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 1199 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 1298 INFO   - Spider null started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider null started!
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 0    INFO   - downloading page http://weibo.com/jfjb
+Thread-1 - us.codecraft.webmagic.Spider 0    INFO   - Spider huaban.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1465 INFO   - downloading page http://huaban.com/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 7196 INFO   - downloading page http://huaban.com/following/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 8599 INFO   - downloading page http://huaban.com/all/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 9944 INFO   - downloading page http://huaban.com/apps/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 10151 INFO   - downloading page http://huaban.com/cc/?md=top
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 11825 INFO   - downloading page http://huaban.com/all/videos/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 13287 INFO   - downloading page http://huaban.com/gift/?md=top
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 13798 INFO   - downloading page http://huaban.com/discovery/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 14820 INFO   - downloading page http://huaban.com/activities/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 16115 INFO   - downloading page http://huaban.com/weekly/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 18599 INFO   - downloading page http://huaban.com/favorite/home/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 18620 INFO   - downloading page http://huaban.com/favorite/travel_places/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 19551 INFO   - downloading page http://huaban.com/favorite/food_drink/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 19841 INFO   - downloading page http://huaban.com/favorite/diy_crafts/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 22138 INFO   - downloading page http://huaban.com/favorite/wedding_events/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 23804 INFO   - downloading page http://huaban.com/favorite/apparel/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 26451 INFO   - downloading page http://huaban.com/favorite/collocation/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27215 INFO   - downloading page http://huaban.com/favorite/modeling_hair/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 28871 INFO   - downloading page http://huaban.com/favorite/desire/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 30718 INFO   - downloading page http://huaban.com/favorite/fitness/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 31066 INFO   - downloading page http://huaban.com/favorite/cars_motorcycles/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 31124 INFO   - downloading page http://huaban.com/favorite/men/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 31818 INFO   - downloading page http://huaban.com/favorite/industrial_design/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 31862 INFO   - downloading page http://huaban.com/favorite/illustration/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 34710 INFO   - downloading page http://huaban.com/favorite/design/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 35897 INFO   - downloading page http://huaban.com/favorite/web_app_icon/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 37826 INFO   - downloading page http://huaban.com/favorite/anime/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 38506 INFO   - downloading page http://huaban.com/favorite/games/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 38856 INFO   - downloading page http://huaban.com/favorite/geek/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 44786 INFO   - downloading page http://huaban.com/favorite/architecture/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 45106 INFO   - downloading page http://huaban.com/favorite/pets/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 45867 INFO   - downloading page http://huaban.com/favorite/kids/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 47789 INFO   - downloading page http://huaban.com/favorite/photography/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49680 INFO   - downloading page http://huaban.com/favorite/quotes/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49775 INFO   - downloading page http://huaban.com/favorite/art/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49816 INFO   - downloading page http://huaban.com/favorite/film_music_books/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 50875 INFO   - downloading page http://huaban.com/favorite/people/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 51521 INFO   - downloading page http://huaban.com/favorite/tips/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 56216 INFO   - downloading page http://huaban.com/favorite/education/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 56341 INFO   - downloading page http://huaban.com/favorite/data_presentation/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 56553 INFO   - downloading page http://huaban.com/favorite/sports/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 57311 INFO   - downloading page http://huaban.com/favorite/beauty/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 64712 INFO   - downloading page http://huaban.com/favorite/funny/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 64779 INFO   - downloading page http://huaban.com/favorite/other/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 65108 INFO   - downloading page http://huaban.com/#
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 65819 INFO   - downloading page http://huaban.com/about/goodies/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 69594 INFO   - downloading page http://huaban.com/about/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 70042 INFO   - downloading page http://huaban.com/about/join_us/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 70079 INFO   - downloading page http://huaban.com/pins/53553/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 70170 INFO   - downloading page http://huaban.com/about/#links
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 73245 INFO   - downloading page http://huaban.com/signup/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 76633 INFO   - downloading page http://huaban.com/explore/shengdanlaoren/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 76704 INFO   - downloading page http://huaban.com/search/?q=%E5%9C%A3%E8%AF%9E
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 76781 INFO   - downloading page http://huaban.com/explore/jiuwugaizao/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 76842 INFO   - downloading page http://huaban.com/explore/moxionghunsha/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 77022 INFO   - downloading page http://huaban.com/explore/datingdiaodingxiaoguotu/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 80080 INFO   - downloading page http://huaban.com/fuxiaojie/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 81472 INFO   - downloading page http://huaban.com/explore/shengdanshu/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 82452 INFO   - downloading page http://huaban.com/explore/shengdanjiezhuantiyemian/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 84005 INFO   - downloading page http://huaban.com/explore/shengdanchahua/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 93102 INFO   - downloading page http://huaban.com/explore/shengdanjiesucai/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 93282 INFO   - downloading page http://huaban.com/explore/christmasdecorate/
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 96649 INFO   - downloading page http://huaban.com/explore/shengdanchuchuang/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 97194 INFO   - downloading page http://huaban.com/explore/shengdandapei/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 111457 INFO   - downloading page http://huaban.com/rebecca/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 114215 INFO   - downloading page http://huaban.com/boards/8466314/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 114258 INFO   - downloading page http://huaban.com/rowe/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 115261 INFO   - downloading page http://huaban.com/explore/paoche/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123837 INFO   - downloading page http://huaban.com/explore/shengdanbizhi/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123870 INFO   - downloading page http://huaban.com/explore/zhifutongren/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123921 INFO   - downloading page http://huaban.com/yanziguliang/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 128327 INFO   - downloading page http://huaban.com/boards/18804288/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 134195 INFO   - downloading page http://huaban.com/xiaoxue123/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 135232 INFO   - downloading page http://huaban.com/boards/2892372/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 135514 INFO   - downloading page http://huaban.com/iconpng/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 138208 INFO   - downloading page http://huaban.com/d46161/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 138867 INFO   - downloading page http://huaban.com/boards/13944731/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 140619 INFO   - downloading page http://huaban.com/hbyy022/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 143592 INFO   - downloading page http://huaban.com/cong425748122/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 144071 INFO   - downloading page http://huaban.com/cc/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 144744 INFO   - downloading page http://huaban.com/gift/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 144961 INFO   - downloading page http://huaban.com/about/contact/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 147652 INFO   - downloading page http://huaban.com/about/brand/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 148239 INFO   - downloading page http://huaban.com/apps/#iphone
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 148966 INFO   - downloading page http://huaban.com/apps/#android
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 149782 INFO   - downloading page http://huaban.com/apps/#ipad
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 150310 INFO   - downloading page http://huaban.com/apps/?md=top2
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 151395 INFO   - downloading page http://huaban.com/cc/?md=top2
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 152485 INFO   - downloading page http://huaban.com/gift/?md=top2
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 152902 INFO   - downloading page http://huaban.com/about
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 153324 INFO   - downloading page http://huaban.com/about/join_us
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 154995 INFO   - downloading page http://huaban.com/weekly/?md=top2
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 157164 INFO   - downloading page http://huaban.com/oauth/weibo/?_ref=loginPage
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 159253 INFO   - downloading page http://huaban.com/oauth/douban/?_ref=loginPage
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 159516 INFO   - downloading page http://huaban.com/oauth/renren/?_ref=loginPage
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 161977 INFO   - downloading page http://huaban.com/oauth/qzone/?_ref=loginPage
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 162463 INFO   - downloading page http://huaban.com/following/#
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 163424 INFO   - downloading page http://huaban.com/all/#
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 164325 INFO   - downloading page http://huaban.com/oauth/weibo/instant_login/?_ref=bar
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 165022 INFO   - downloading page http://huaban.com/oauth/qzone/instant_login/?_ref=bar
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 165576 INFO   - downloading page http://huaban.com/oauth/douban/instant_login/?_ref=bar
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 165628 INFO   - downloading page http://huaban.com/oauth/renren/instant_login/?_ref=bar
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 167012 INFO   - downloading page http://huaban.com/oauth/weibo/instant_login/?_ref=barFloating
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 167148 INFO   - downloading page http://huaban.com/oauth/qzone/instant_login/?_ref=barFloating
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 168686 INFO   - downloading page http://huaban.com/oauth/douban/instant_login/?_ref=barFloating
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 171175 INFO   - downloading page http://huaban.com/oauth/renren/instant_login/?_ref=barFloating
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 171209 INFO   - downloading page http://huaban.com/explore/walldecoration/?md=newbn&all
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 172021 INFO   - downloading page http://huaban.com/boards/3216274/?md=newbn&all
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 173751 INFO   - downloading page http://huaban.com/explore/zazhifengmian/?md=newbn&quotes
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 174283 INFO   - downloading page http://huaban.com/explore/victoriassecret/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 175896 INFO   - downloading page http://huaban.com/explore/shafa//?md=newbn&all
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 177303 INFO   - downloading page http://huaban.com/explore/huatong/?md=newbn&all
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 178158 INFO   - downloading page http://huaban.com/gk582682468/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 180379 INFO   - downloading page http://huaban.com/boards/12701367
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 182675 INFO   - downloading page http://huaban.com/pins/298079939/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 185235 INFO   - downloading page http://huaban.com/boards/12701367/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 185552 INFO   - downloading page http://huaban.com/t0gkxnw8ekr/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 186667 INFO   - downloading page http://huaban.com/boards/17920451
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 188095 INFO   - downloading page http://huaban.com/pins/298079904/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 188946 INFO   - downloading page http://huaban.com/boards/17920451/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 191332 INFO   - downloading page http://huaban.com/vj7xgcdhf0/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 192649 INFO   - downloading page http://huaban.com/boards/18819461
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 194027 INFO   - downloading page http://huaban.com/pins/298079853/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 194956 INFO   - downloading page http://huaban.com/boards/18819461/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 196833 INFO   - downloading page http://huaban.com/oo21ljggcr/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 196982 INFO   - downloading page http://huaban.com/boards/15985627
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 199436 INFO   - downloading page http://huaban.com/pins/298079924/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 199992 INFO   - downloading page http://huaban.com/boards/15985627/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 202254 INFO   - downloading page http://huaban.com/xlw6n2zzyn/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 203234 INFO   - downloading page http://huaban.com/boards/18839965
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 203516 INFO   - downloading page http://huaban.com/pins/298079843/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 204097 INFO   - downloading page http://huaban.com/boards/18839965/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 206517 INFO   - downloading page http://huaban.com/gcjomhkmnz/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 207047 INFO   - downloading page http://huaban.com/boards/18808592
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 207249 INFO   - downloading page http://huaban.com/pins/298079844/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 207306 INFO   - downloading page http://huaban.com/boards/18808592/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 210241 INFO   - downloading page http://huaban.com/kiss-19941119/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 210532 INFO   - downloading page http://huaban.com/boards/15724356
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 210871 INFO   - downloading page http://huaban.com/pins/298079855/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 211126 INFO   - downloading page http://huaban.com/boards/15724356/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 215559 INFO   - downloading page http://huaban.com/dw2rxdyk6e/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 216367 INFO   - downloading page http://huaban.com/boards/16649467
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 216438 INFO   - downloading page http://huaban.com/pins/298079935/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 217423 INFO   - downloading page http://huaban.com/search/?q=街拍时刻—潮流站
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 220148 INFO   - downloading page http://huaban.com/boards/16649467/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 220308 INFO   - downloading page http://huaban.com/dv2lt3k8s5/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 220390 INFO   - downloading page http://huaban.com/boards/18105225
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 222833 INFO   - downloading page http://huaban.com/pins/298079931/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 223604 INFO   - downloading page http://huaban.com/boards/18105225/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 225983 INFO   - downloading page http://huaban.com/p2sbbfrurpf/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 226207 INFO   - downloading page http://huaban.com/boards/18536062
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 227862 INFO   - downloading page http://huaban.com/pins/298079889/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 228476 INFO   - downloading page http://huaban.com/boards/18536062/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 229960 INFO   - downloading page http://huaban.com/xtpvxviq9i/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 230364 INFO   - downloading page http://huaban.com/boards/18517512
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 232450 INFO   - downloading page http://huaban.com/pins/298079892/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 232455 INFO   - downloading page http://huaban.com/boards/18517512/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 233257 INFO   - downloading page http://huaban.com/j5bnp1hazb0/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 233445 INFO   - downloading page http://huaban.com/boards/16643521
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 236485 INFO   - downloading page http://huaban.com/pins/298079830/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 236591 INFO   - downloading page http://huaban.com/search/?q=设计
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 237005 INFO   - downloading page http://huaban.com/search/?q=产品
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 237247 INFO   - downloading page http://huaban.com/boards/16643521/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 240726 INFO   - downloading page http://huaban.com/xuyiaapv8f/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 241142 INFO   - downloading page http://huaban.com/boards/18829997
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 242395 INFO   - downloading page http://huaban.com/pins/298079913/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 244277 INFO   - downloading page http://huaban.com/boards/18829997/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 244611 INFO   - downloading page http://huaban.com/z-king1179943122/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 244794 INFO   - downloading page http://huaban.com/boards/7943081
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 246379 INFO   - downloading page http://huaban.com/pins/298079826/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 248009 INFO   - downloading page http://huaban.com/boards/7943081/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 248606 INFO   - downloading page http://huaban.com/pins/298079851/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 249750 INFO   - downloading page http://huaban.com/u6aeg941pzw/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 251044 INFO   - downloading page http://huaban.com/boards/18807994
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 252687 INFO   - downloading page http://huaban.com/pins/298079873/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 252870 INFO   - downloading page http://huaban.com/boards/18807994/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 254534 INFO   - downloading page http://huaban.com/vllu7s7xfv/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 254944 INFO   - downloading page http://huaban.com/boards/18284746
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 255516 INFO   - downloading page http://huaban.com/pins/298079876/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 256487 INFO   - downloading page http://huaban.com/search/?q=婚礼
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 257840 INFO   - downloading page http://huaban.com/search/?q=婚纱
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 258765 INFO   - downloading page http://huaban.com/search/?q=婚纱礼服
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 259427 INFO   - downloading page http://huaban.com/search/?q=礼服
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 261277 INFO   - downloading page http://huaban.com/search/?q=新娘
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 262763 INFO   - downloading page http://huaban.com/boards/18284746/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 263101 INFO   - downloading page http://huaban.com/boards/17795830
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 263619 INFO   - downloading page http://huaban.com/pins/298079933/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 267623 INFO   - downloading page http://huaban.com/boards/17795830/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 267998 INFO   - downloading page http://huaban.com/pins/298079835/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 268127 INFO   - downloading page http://huaban.com/pins/298079819/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 271868 INFO   - downloading page http://huaban.com/cc/?md=top#
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 271874 INFO   - downloading page http://huaban.com/cc/material/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 271946 INFO   - downloading page http://huaban.com/cc/designers/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 274947 INFO   - downloading page http://huaban.com/design/features/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 276389 INFO   - downloading page http://huaban.com/cc/register/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 276555 INFO   - downloading page http://huaban.com/pins/276073068/?md=banner
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 279460 INFO   - downloading page http://huaban.com/cc
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 281163 INFO   - downloading page http://huaban.com/cc/hot
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 281728 INFO   - downloading page http://huaban.com/pins/297959501/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 282528 INFO   - downloading page http://huaban.com/panpanda/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 286949 INFO   - downloading page http://huaban.com/boards/18748097
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 287206 INFO   - downloading page http://huaban.com/pins/297959481/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 288397 INFO   - downloading page http://huaban.com/hedada/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 289199 INFO   - downloading page http://huaban.com/boards/18645406
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 294456 INFO   - downloading page http://huaban.com/pins/297959532/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 294926 INFO   - downloading page http://huaban.com/u61nywjdhj/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 296320 INFO   - downloading page http://huaban.com/boards/18650437
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 296335 INFO   - downloading page http://huaban.com/pins/297959480/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 298733 INFO   - downloading page http://huaban.com/pins/297959467/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 299082 INFO   - downloading page http://huaban.com/pins/297959479/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 299303 INFO   - downloading page http://huaban.com/pins/297959468/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 302215 INFO   - downloading page http://huaban.com/pins/297959466/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 302778 INFO   - downloading page http://huaban.com/pins/297959478/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 303001 INFO   - downloading page http://huaban.com/pins/297959460/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 303376 INFO   - downloading page http://huaban.com/aderwan/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 305319 INFO   - downloading page http://huaban.com/boards/18886511
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 306528 INFO   - downloading page http://huaban.com/pins/297959471/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 307626 INFO   - downloading page http://huaban.com/rongxiaofa2183/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 308107 INFO   - downloading page http://huaban.com/boards/18883884
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 309780 INFO   - downloading page http://huaban.com/pins/297959458/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 309797 INFO   - downloading page http://huaban.com/pins/297959456/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 310926 INFO   - downloading page http://huaban.com/pins/297959463/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 311724 INFO   - downloading page http://huaban.com/pins/297959464/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 313287 INFO   - downloading page http://huaban.com/pins/297959482/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 313655 INFO   - downloading page http://huaban.com/pins/297959457/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 314280 INFO   - downloading page http://huaban.com/pins/297959470/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 314906 INFO   - downloading page http://huaban.com/pins/297959477/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 316355 INFO   - downloading page http://huaban.com/pins/297959526/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 318490 INFO   - downloading page http://huaban.com/cc/business/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 318524 INFO   - downloading page http://huaban.com/cc/help
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 319205 INFO   - downloading page http://huaban.com/all/videos/#
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 320696 INFO   - downloading page http://huaban.com/all/videos/youku/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 321950 INFO   - downloading page http://huaban.com/all/videos/ku6/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 322263 INFO   - downloading page http://huaban.com/all/videos/56/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 324468 INFO   - downloading page http://huaban.com/all/videos/baomihua/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 325434 INFO   - downloading page http://huaban.com/emee2rfo8q/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 326249 INFO   - downloading page http://huaban.com/boards/18860329
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 327518 INFO   - downloading page http://huaban.com/pins/298079962/
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 329302 INFO   - downloading page http://huaban.com/boards/18860329/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 329600 INFO   - downloading page http://huaban.com/rkuofdwckw/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 331204 INFO   - downloading page http://huaban.com/boards/17970256
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 332170 INFO   - downloading page http://huaban.com/pins/298077679/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 333577 INFO   - downloading page http://huaban.com/boards/17970256/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 334219 INFO   - downloading page http://huaban.com/o0r6j98li2i/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 335425 INFO   - downloading page http://huaban.com/boards/18854753
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 336679 INFO   - downloading page http://huaban.com/pins/298077809/
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 337248 INFO   - downloading page http://huaban.com/boards/18854753/
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 338300 INFO   - downloading page http://huaban.com/afcco7e2b9/
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 339267 INFO   - downloading page http://huaban.com/boards/13911825
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 340532 INFO   - downloading page http://huaban.com/pins/298078478/
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2009 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4090 INFO   - Quit webDriverChromeDriver: chrome on LINUX (9aa21e512aadb387a1b61db414730e5c)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2059 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 3956 INFO   - Quit webDriverChromeDriver: chrome on LINUX (15a4381e57f9c0132017a6b41fe2654f)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2094 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4000 INFO   - Quit webDriverChromeDriver: chrome on LINUX (5bc259d5826d88255bc6a296e5d8492c)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 43717 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 101005 INFO   - Quit webDriverChromeDriver: chrome on LINUX (d4f0bd4b5f7c1d1faeadcada9d4dc999)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1488 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 3519 INFO   - Quit webDriverChromeDriver: chrome on LINUX (236a206fbd000e01acbc3b2b61cf8a00)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1990 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1676 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4770 INFO   - Quit webDriverChromeDriver: chrome on LINUX (d581e4af1e4112bebc237ae7726388e1)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 32887 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 78416 INFO   - Quit webDriverChromeDriver: chrome on LINUX (da898519571091f817055ab8001e7cdf)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 34020 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 153451 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 1000268 INFO   - Quit webDriverChromeDriver: chrome on LINUX (4e8c488fa396761603dc5e84aac2f250)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1809 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4949 INFO   - Quit webDriverChromeDriver: chrome on LINUX (b0714b07720f587b2e182832f2c0cb37)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2133 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5772 INFO   - Quit webDriverChromeDriver: chrome on LINUX (c7758d040d30f33f20165d70a51ddd67)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2216 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 5265 INFO   - Quit webDriverChromeDriver: chrome on LINUX (48b3ab9bd2ff28507043afdaf8f93b2d)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1849 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 46874 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1741 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 4737 INFO   - Quit webDriverChromeDriver: chrome on LINUX (c723d81e1965a1bb348726e2c56dac07)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 8002 INFO   - downloading page http://weibo.com/jfjb

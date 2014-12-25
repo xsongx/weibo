@@ -3,6 +3,9 @@ package cn.edu.nudt.nlp.crawler;
 import static us.codecraft.webmagic.selector.Selectors.regex;
 import static us.codecraft.webmagic.selector.Selectors.xpath;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
@@ -29,6 +32,8 @@ import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import redis.clients.jedis.Pipeline;
+
 import us.codecraft.webmagic.*;
 import us.codecraft.webmagic.downloader.selenium.SeleniumDownloader;
 import us.codecraft.webmagic.downloader.selenium.WebDriverPool;
@@ -41,7 +46,7 @@ import us.codecraft.webmagic.selector.Html;
 import us.codecraft.webmagic.selector.PlainText;
 import us.codecraft.webmagic.selector.Selectable;
 import us.codecraft.webmagic.utils.UrlUtils;
-
+import us.codecraft.webmagic.Spider;
 
 /**
  * 抓取解放军报微博平台军报记者的微博;<br>
@@ -65,7 +70,7 @@ public class WeiboCrawler implements PageProcessor {
 	
 	public WeiboCrawler(){
 		System.getProperties().setProperty("webdriver.chrome.driver",
-				"/opt/google/chrome/chrome");
+				"/usr/local/bin/chromedriver");
 		try {
 
 			if (webDriverPool == null) {
@@ -202,13 +207,26 @@ public class WeiboCrawler implements PageProcessor {
 
 			}
 		}
+		
 	//主程序入口
 	 public static void main(String[] args) {
-	      WeiboCrawler wc=new WeiboCrawler();
-		  Page p1 = wc.download(new Request(wc.url), wc.getSite());
+		 WeiboCrawler wc=new WeiboCrawler();
+		// Spider.create(wc).pipeline(new FilePipeline("/media/work/gitbase/weibo/weixinCrawler/data/")).run();
+		 Page p1 = wc.download(new Request(wc.url), wc.getSite());
 			if (p1 == null)
 				System.exit(0);
-			System.out.println(p1.getRawText());
+			FileWriter fr = null;
+			try {
+				fr = new FileWriter("/media/work/gitbase/weibo/weixinCrawler/data/weibo2.txt");
+				fr.write(p1.getRawText());
+				fr.close();
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+	    	
+			System.out.println(p1.getRawText());    
+		
 			 
 	    }
 	}
