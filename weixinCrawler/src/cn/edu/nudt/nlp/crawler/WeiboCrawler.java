@@ -70,7 +70,7 @@ public class WeiboCrawler implements PageProcessor {
 	
 	public WeiboCrawler(){
 		System.getProperties().setProperty("webdriver.chrome.driver",
-				"/usr/local/bin/chromedriver");
+				"/media/work/gitbase/chromedriver");
 		try {
 
 			if (webDriverPool == null) {

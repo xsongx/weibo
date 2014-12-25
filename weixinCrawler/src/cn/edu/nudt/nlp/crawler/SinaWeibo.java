@@ -17,7 +17,8 @@ import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
  
-import net.sf.json.JSONObject;
+import org.json.JSONException;
+import org.json.JSONObject;
  
 import org.apache.commons.codec.binary.Base64;
 import org.apache.http.NameValuePair;
@@ -26,8 +27,8 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
  
-import com.shiyimm.crawler.util.MyUrlUtil;
-import com.shiyimm.crawler.util.UrlUtil;
+/*import com.shiyimm.crawler.util.MyUrlUtil;
+import com.shiyimm.crawler.util.UrlUtil;*/
  
 public class SinaWeibo {
     private HttpClient client;
@@ -68,7 +69,7 @@ public class SinaWeibo {
             content = HttpTools.getRequest(client, url);
             //System.out.println(content);
             System.out.println("content------------" + content);
-            JSONObject json = JSONObject.fromObject(content);
+            JSONObject json =  new JSONObject(content);
             System.out.println(json);
             servertime = json.getLong("servertime");
             nonce = json.getString("nonce");
@@ -84,7 +85,10 @@ public class SinaWeibo {
         } catch (IOException e) {
             // TODO Auto-generated catch block
             //e.printStackTrace();
-        }
+        } catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
         return flag;
     }
  
@@ -117,7 +121,7 @@ public class SinaWeibo {
             try {
                 String content = HttpTools.postRequest(client, url, parms);
                 System.out.println("content----------" + content);
-                String regex = "location\\.replace\\(\"(.+?)\"\\);";
+                String regex = "location\\.replace\\(\'(.+?)\'\\);";
                 Pattern p = Pattern.compile(regex);
                 Matcher m = p.matcher(content);
                 if(m.find()) {
@@ -153,7 +157,7 @@ public class SinaWeibo {
         ScriptEngineManager sem = new ScriptEngineManager();
         ScriptEngine se = sem.getEngineByName("javascript");
         try {
-            FileReader fr = new FileReader("E:\\encoder.js");
+            FileReader fr = new FileReader("/media/work/gitbase/weibo/weixinCrawler/encoder.js");
             se.eval(fr);
             Invocable invocableEngine = (Invocable) se;
             String callbackvalue = (String) invocableEngine.invokeFunction("encodePwd", pubkey, servertime, nonce, password);
@@ -161,7 +165,7 @@ public class SinaWeibo {
             return true;
         } catch (FileNotFoundException e) {
             // TODO Auto-generated catch block
-            System.out.println("加密脚本encoder.sj未找到");
+            System.out.println("加密脚本encoder.js未找到");
         } catch (ScriptException e) {
             // TODO Auto-generated catch block
             //e.printStackTrace();
@@ -187,7 +191,7 @@ public class SinaWeibo {
     }
  
     public static void main(String[] args) throws ClientProtocolException, IOException {
-        SinaWeibo weibo = new SinaWeibo("账号", "密码");
+        SinaWeibo weibo = new SinaWeibo("xsongx", "jiajia20090924");
         if(weibo.login()) {
             System.out.println("登陆成功！");
             String url = "http://www.weibo.com/hm";

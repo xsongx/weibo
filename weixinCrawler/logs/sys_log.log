@@ -74,3 +74,7 @@ main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 10977 INFO   - Qu
 main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
 pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2119 INFO   - downloading page http://weibo.com/jfjb
 main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 11984 INFO   - Quit webDriverChromeDriver: chrome on LINUX (208107093bd5946e73d526a84621940b)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 8419 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 19135 INFO   - Quit webDriverChromeDriver: chrome on LINUX (2ff831d77db1fb027d8b4f974042eb0a)
+main - cn.edu.nudt.nlp.crawler.WeiboCrawler 0    INFO   - downloading page http://weibo.com/jfjb

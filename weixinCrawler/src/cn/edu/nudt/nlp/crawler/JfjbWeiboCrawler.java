@@ -85,7 +85,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		SeleniumDownloader downlder=new SeleniumDownloader("/usr/local/bin/chromedriver");
+		SeleniumDownloader downlder=new SeleniumDownloader("/media/work/gitbase/chromedriver");
 		downlder.setSleepTime(4000);
 		Spider.create(new JfjbWeiboCrawler())
         .pipeline(new FilePipeline("/media/work/gitbase/weibo/weixinCrawler/data/"))
