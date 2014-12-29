@@ -2,6 +2,7 @@ package cn.edu.nudt.nlp.crawler;
  
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
@@ -19,7 +20,7 @@ import javax.script.ScriptException;
  
 import org.json.JSONException;
 import org.json.JSONObject;
- 
+import org.apache.http.cookie.Cookie;  
 import org.apache.commons.codec.binary.Base64;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.ClientProtocolException;
@@ -95,8 +96,9 @@ public class SinaWeibo {
     /**
      * 登录
      * @return true:登录成功
+     * @throws JSONException 
      */
-    public boolean login() {
+    public String login() throws JSONException {
         if(preLogin()) {
             String url = "http://login.sina.com.cn/sso/login.php?client=ssologin.js(v1.4.5)";
             List<NameValuePair> parms = new ArrayList<NameValuePair>();
@@ -132,7 +134,58 @@ public class SinaWeibo {
                     } else {
                         String result = HttpTools.getRequest(client, location);
                         System.out.println("result--------------" + result);
-                        return true;
+                        /*Cookie cookie = new Cookie("weibo.com", "wvr", "3.6", "/", new Date(2099, 12, 31), false);  
+                        client.getState().addCookie(cookie);  
+                  
+                        Cookie[] cookies = client.getState().getCookies();  
+                        boolean containsSue = false;  
+                        boolean containsSup = false;  
+                        for (Cookie singleCookie : cookies) {  
+                            String domain = singleCookie.getDomain();  
+                            logger.info(domain);  
+                            if (domain.equals(".sina.com.cn")) {  
+                                singleCookie.setDomain("weibo.com");  
+                            }  
+                            logger.info(singleCookie);  
+                            if (singleCookie.getName().equals("SUE")) {  
+                                containsSue = true;  
+                            }  
+                            if (singleCookie.getName().equals("SUP")) {  
+                                containsSup = true;  
+                            }  
+                        }  
+                        return client;  */
+                      content = result.substring(result.indexOf("(") + 1,
+                        		result.lastIndexOf(")"));
+                        /* 
+
+                		CallResult result = null;
+                		try {
+                			result = mapper.readValue(content, CallResult.class);
+                		} catch (JsonParseException e) {
+                		} catch (JsonMappingException e) {
+                		} catch (IOException e) {
+                		}
+                		
+                		login.abort();                		return result;*/
+                        JSONObject json =  new JSONObject(content);
+						System.out.println(json);
+						JSONObject jsonui=json.getJSONObject("userinfo");
+						String uid=jsonui.getString("uniqueid");
+						String udomian=jsonui.getString("userdomain");
+						String usrurl="http://weibo.com/u/"+uid+"/home?"+udomian;
+						String login= HttpTools.getRequest(client, usrurl);
+						System.out.println(login);
+						FileWriter fr = null;
+						try {
+							fr = new FileWriter("/media/work/gitbase/weibo/weixinCrawler/data/login.txt");
+							fr.write(login);
+							fr.close();
+						} catch (IOException e1) {
+							// TODO Auto-generated catch block
+							e1.printStackTrace();
+						}
+                        return usrurl;
                     }
                 }
             } catch (ClientProtocolException e) {
@@ -145,7 +198,7 @@ public class SinaWeibo {
             //          url = "http://www.weibo.com/hm";
             //          System.out.println(MyUrlUtil.getResource(url));
         }
-        return false;
+        return null;
     }
  
     /**
@@ -190,11 +243,11 @@ public class SinaWeibo {
         return now.getTime();
     }
  
-    public static void main(String[] args) throws ClientProtocolException, IOException {
+    public static void main(String[] args) throws ClientProtocolException, IOException, JSONException {
         SinaWeibo weibo = new SinaWeibo("xsongx", "jiajia20090924");
-        if(weibo.login()) {
+        if(weibo.login() != null) {
             System.out.println("登陆成功！");
-            String url = "http://www.weibo.com/hm";
+            
             //          String source = MyUrlUtil.getResource(url);
             //          System.out.println(source);
         } else {

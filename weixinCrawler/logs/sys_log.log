@@ -80,3 +80,38 @@ main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 19135 INFO   - Qu
 main - cn.edu.nudt.nlp.crawler.WeiboCrawler 0    INFO   - downloading page http://weibo.com/jfjb
 main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
 pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 5254 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1071 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 10843 INFO   - Quit webDriverChromeDriver: chrome on LINUX (54071d61eaa2bbdf79b7d928060b168a)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 993  INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 10410 INFO   - Quit webDriverChromeDriver: chrome on LINUX (e33fafb0ea86c8538e87104035f0d638)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1983 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 12925 INFO   - Quit webDriverChromeDriver: chrome on LINUX (bca7987844792ebb222717a942e61f0f)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1356 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1525 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1012 INFO   - downloading page http://weibo.com/u/1411071612/home??wvr=5&lf=reg
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 9572 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 18432 INFO   - Quit webDriverChromeDriver: chrome on LINUX (19ced0bafe1fdbdd4184fbb295af793c)
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1104 INFO   - downloading page http://weibo.com/u/1411071612/home??wvr=5&lf=reg
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1054 INFO   - downloading page http://weibo.com/u/1411071612/home??wvr=5&lf=reg
+main - org.apache.http.client.protocol.ResponseProcessCookies 0    WARN   - Invalid cookie header: "Set-Cookie: wvr=6;expires=Sat, 03 Jan 2015 14:54:00;path=/;domain=.weibo.com". Unable to parse expires attribute: Sat, 03 Jan 2015 14:54:00
+main - org.apache.http.client.protocol.ResponseProcessCookies 1    WARN   - Invalid cookie header: "Set-Cookie: wvr=6;expires=Sat, 03 Jan 2015 14:58:17;path=/;domain=.weibo.com". Unable to parse expires attribute: Sat, 03 Jan 2015 14:58:17
+main - org.apache.http.client.protocol.ResponseProcessCookies 0    WARN   - Invalid cookie header: "Set-Cookie: wvr=6;expires=Sat, 03 Jan 2015 15:05:38;path=/;domain=.weibo.com". Unable to parse expires attribute: Sat, 03 Jan 2015 15:05:38
+main - us.codecraft.webmagic.Spider 1671 INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3707 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 15083 INFO   - Quit webDriverChromeDriver: chrome on LINUX (1f1643433fae9505aff4b31d8702e3c3)
+main - org.apache.http.client.protocol.ResponseProcessCookies 0    WARN   - Invalid cookie header: "Set-Cookie: wvr=6;expires=Sat, 03 Jan 2015 15:23:49;path=/;domain=.weibo.com". Unable to parse expires attribute: Sat, 03 Jan 2015 15:23:49
+main - us.codecraft.webmagic.Spider 1521 INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2997 INFO   - downloading page http://weibo.com/u/1411071612/home??wvr=5&lf=reg
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 11538 INFO   - Quit webDriverChromeDriver: chrome on LINUX (469e0d56abbb6b84cd0c14e745774da1)
+main - org.apache.http.client.protocol.ResponseProcessCookies 0    WARN   - Invalid cookie header: "Set-Cookie: wvr=6;expires=Sat, 03 Jan 2015 15:26:40;path=/;domain=.weibo.com". Unable to parse expires attribute: Sat, 03 Jan 2015 15:26:40
+main - us.codecraft.webmagic.Spider 1628 INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3347 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 13436 INFO   - Quit webDriverChromeDriver: chrome on LINUX (acebf5bf1b46586a107763c34602d40f)

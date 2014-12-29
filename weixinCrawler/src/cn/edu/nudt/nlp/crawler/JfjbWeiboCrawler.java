@@ -24,6 +24,7 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.exception.ConstraintViolationException;
 import org.hibernate.exception.DataException;
+import org.json.JSONException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.NoSuchElementException;
@@ -55,7 +56,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
 
     @Override
     public void process(Page page) {
-        //page.addTargetRequest(url);  
+        //page.addTargetRequest(url);      	
     	if (page==null)
     		System.exit(0);
     	String txt=page.getRawText();
@@ -71,6 +72,19 @@ public class JfjbWeiboCrawler implements PageProcessor {
     	    	
     	System.out.println(txt);
     }
+    public static void Login() {
+	    WebDriver driver;
+		driver = new ChromeDriver();
+		driver.get("http://weibo.com/");
+	    
+	     //模拟登陆代码
+		WebElement loginUN = driver.findElement(By.name("username"));
+		loginUN.sendKeys("username");
+		WebElement loginPW = driver.findElement(By.name("password"));
+		loginPW.sendKeys("password");
+		WebElement loginclick = driver.findElement(By.name("submit"));
+		loginclick.submit();
+    }
 
     @Override
     public Site getSite() {
@@ -82,20 +96,23 @@ public class JfjbWeiboCrawler implements PageProcessor {
 
 	/**
 	 * @param args
+	 * @throws JSONException 
 	 */
-	public static void main(String[] args) {
-		SinaWeibo weibo = new SinaWeibo("xsongx", "jiajia20090924");
-        if(weibo.login()) {
+	public static void main(String[] args) throws JSONException {
+		SeleniumDownloader downlder=new SeleniumDownloader("/media/work/gitbase/chromedriver");
+		downlder.setSleepTime(4000);
+/*		SinaWeibo weibo = new SinaWeibo("xsongx", "jiajia20090924");
+		String loginin=weibo.login();
+        if(loginin != null) {
             System.out.println("登陆成功！");
             //String url = "http://www.weibo.com/hm";
             //          String source = MyUrlUtil.getResource(url);
             //          System.out.println(source);
         } else {
             System.out.println("登录失败！");
-        }
-		// TODO Auto-generated method stub
-		SeleniumDownloader downlder=new SeleniumDownloader("/media/work/gitbase/chromedriver");
-		downlder.setSleepTime(4000);
+            System.exit(0);
+        }*/
+        Login();
 		Spider.create(new JfjbWeiboCrawler())
         .pipeline(new FilePipeline("/media/work/gitbase/weibo/weixinCrawler/data/"))
         .setDownloader(downlder)

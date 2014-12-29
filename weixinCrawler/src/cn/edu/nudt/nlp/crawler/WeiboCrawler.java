@@ -101,7 +101,7 @@ public class WeiboCrawler implements PageProcessor {
     	WebElement loginUN = driver.findElement(By.name("username"));
     	loginUN.sendKeys("username");
     	WebElement loginPW = driver.findElement(By.name("password"));
-    	loginUN.sendKeys("password");
+    	loginPW.sendKeys("password");
     	WebElement loginclick = driver.findElement(By.name("submit"));
     	loginclick.submit();
     	
