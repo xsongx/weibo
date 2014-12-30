@@ -3,9 +3,15 @@ package us.codecraft.webmagic.downloader.selenium;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Wait;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 //import cn.edu.nudt.nlp.crawler.ConfigUtil;
 import us.codecraft.webmagic.Page;
@@ -71,7 +77,7 @@ public class SeleniumDownloader implements Downloader, Closeable {
 		if(durl!=null && durl.length()>1){
 			url=durl;
 		}
-		webDriver.get(url);
+		//webDriver.get(url);
 		try {
 			Thread.sleep(sleepTime);
 		} catch (InterruptedException e) {
@@ -127,12 +133,48 @@ public class SeleniumDownloader implements Downloader, Closeable {
 				return true;
 			}
 	}
+    public void setScroll(WebDriver driver,int height){
+    	  try {
+    	   String setscroll = "document.documentElement.scrollTop=" + height;
+    	   
+    	   JavascriptExecutor jse=(JavascriptExecutor) driver;
+    	   jse.executeScript(setscroll);
+    	  } catch (Exception e) {
+    	   System.out.println("Fail to set the scroll.");
+    	  }   
+    	 } 
+    public void windowScroll(WebDriver driver){
+    	JavascriptExecutor js = (JavascriptExecutor) driver;
+	    //boolean reachedbottom = Boolean.parseBoolean(js.executeScript("return $(document).height() == ($(window).height() + $(window).scrollTop());").toString());
+	
+	    while (true) {
+	        ((JavascriptExecutor) driver).executeScript("window.scrollBy(0,6000)", "");
+	        try {
+				Thread.sleep(sleepTime);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+	        try {
+	            //reachedbottom=Boolean.parseBoolean(js.executeScript("return $(document).height() == ($(window).height() + $(window).scrollTop());").toString());
+	            WebElement element = driver.findElement(By.xpath("//a[@class='page next S_txt1 S_line1']"));
+	            Wait<WebDriver> wait_element = new WebDriverWait(driver, 5);
+	            wait_element.until(ExpectedConditions.elementToBeClickable(element));
+	            //element.click();
+	            System.out.println("!!!!!!!!!!!!!!At Last Get Success!!!!!!!!!!!!!!!!");
+	            break;
+	        } catch (Exception ex) {
+	            //Logger.getLogger(Test.class.getName()).log(Level.SEVERE, null, ex);
+	            System.out.println(ex.getMessage());
+	        }
+	    }
+    }
     
     @Override
     public Page download(Request request, Task task) {
         checkInit();
         WebDriver webDriver;
         String url=request.getUrl();
+        
         try {
             webDriver = webDriverPool.get();
         } catch (InterruptedException e) {
@@ -147,7 +189,10 @@ public class SeleniumDownloader implements Downloader, Closeable {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+      
         WebDriver.Options manage = webDriver.manage();
+/*        manage.window().maximize();
+        System.out.println(manage.window().getSize().toString());*/
         Site site = task.getSite();
         if (site.getCookies() != null) {
             for (Map.Entry<String, String> cookieEntry : site.getCookies().entrySet()) {
@@ -159,12 +204,13 @@ public class SeleniumDownloader implements Downloader, Closeable {
 			   WebElement loginElement = webDriver.findElement(By.xpath("//a[@node-type='loginBtn']"));
 			   if (loginElement != null){	   
 					   login(webDriver);
-					   webDriver.get(url);
+					   //webDriver.get(url);
 				       try {
 				            Thread.sleep(sleepTime);
 				        } catch (InterruptedException e) {
 				            e.printStackTrace();
 				        }
+				        windowScroll(webDriver);
 				        WebElement webElement = webDriver.findElement(By.xpath("/html"));
 				        String content = webElement.getAttribute("outerHTML");
 				        Page page = new Page();
@@ -179,7 +225,7 @@ public class SeleniumDownloader implements Downloader, Closeable {
 			catch(NoSuchElementException e) {
 				logger.info("Already login!");
 			}        
-
+        windowScroll(webDriver);
         WebElement webElement = webDriver.findElement(By.xpath("/html"));
         String content = webElement.getAttribute("outerHTML");
         Page page = new Page();

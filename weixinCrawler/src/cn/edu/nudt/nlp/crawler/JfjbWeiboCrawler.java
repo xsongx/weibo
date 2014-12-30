@@ -56,7 +56,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
 
     @Override
     public void process(Page page) {
-/*        //page.addTargetRequest(url);      	
+        /*//page.addTargetRequest(url);      	
     	if (page==null)
     		System.exit(0);
     	String txt=page.getRawText();
@@ -68,9 +68,9 @@ public class JfjbWeiboCrawler implements PageProcessor {
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
-		}
-    	    	
+		}    	    	
     	System.out.println(txt);*/
+    	
     	// 定义如何抽取页面信息，并保存下来		
 		if (page.getUrl().toString().equals("http://weibo.com/jfjb")) {
             System.out.println("从微博首页中抽取URL...\n");

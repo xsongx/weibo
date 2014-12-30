@@ -75,3 +75,148 @@ pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1
 pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 121736 INFO   - downloading page http://weibo.com/2280198017/BD4zpoDl8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
 pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 128507 INFO   - Already login!
 pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 131640 INFO   - downloading page http://weibo.com/2280198017/BD4ne60Ic?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 14046 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 47474 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 58549 INFO   - downloading page http://weibo.com/2280198017/BCyWS4Ht9?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 65411 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 68754 INFO   - downloading page http://weibo.com/2280198017/BDbPX5q4r?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 75474 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 79047 INFO   - downloading page http://weibo.com/2280198017/BDbLQFTHN?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 85673 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 88789 INFO   - downloading page http://weibo.com/2280198017/BDbDNApzv?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 7944 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 40642 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 51140 INFO   - downloading page http://weibo.com/2280198017/BCyWS4Ht9?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2698 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 97632 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=39.0.2171.95)
+  (Driver info: chromedriver=2.13.307649 (bf55b442bb6b5c923249dd7870d6a107678bfbb6),platform=Linux 3.13.0-35-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 78 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'xsongx-Inspiron', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-35-generic', java.version: '1.7.0_65'
+Session ID: 962fd40f2785db138c99dac63db159b1
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.QyV5Vk}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=39.0.2171.95, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.login(SeleniumDownloader.java:123)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:187)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 97918 INFO   - Quit webDriverChromeDriver: chrome on LINUX (962fd40f2785db138c99dac63db159b1)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2103 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1811 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 1    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1761 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1933 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1996 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 29728 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2945 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 30385 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.Spider 37270 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.WebDriverException: unknown error: $ is not defined
+  (Session info: chrome=39.0.2171.95)
+  (Driver info: chromedriver=2.13.307649 (bf55b442bb6b5c923249dd7870d6a107678bfbb6),platform=Linux 3.13.0-35-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'xsongx-Inspiron', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-35-generic', java.version: '1.7.0_65'
+Session ID: 6bc3f781cc46ec3c673a0fb02d177a2a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.yBCKyX}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=39.0.2171.95, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:508)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.windowScroll(SeleniumDownloader.java:148)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:222)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 37288 INFO   - Quit webDriverChromeDriver: chrome on LINUX (6bc3f781cc46ec3c673a0fb02d177a2a)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3304 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 32970 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2465 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 30577 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3456 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 30572 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1187 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27863 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1133 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27658 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1279 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 28761 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 3108 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.Spider 12950 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=39.0.2171.95)
+  (Driver info: chromedriver=2.13.307649 (bf55b442bb6b5c923249dd7870d6a107678bfbb6),platform=Linux 3.13.0-35-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'xsongx-Inspiron', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-35-generic', java.version: '1.7.0_65'
+Session ID: 69e4c98955056e791fff3e6b1699d526
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.So4blc}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=39.0.2171.95, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:508)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.windowScroll(SeleniumDownloader.java:151)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:228)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 12968 INFO   - Quit webDriverChromeDriver: chrome on LINUX (69e4c98955056e791fff3e6b1699d526)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1609 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 28878 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1099 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27006 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 48891 INFO   - downloading page http://weibo.com/2280198017/BCDEJp7mx?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 55696 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 64965 INFO   - downloading page http://weibo.com/2280198017/BDeLm6XAy
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 71912 INFO   - Already login!
