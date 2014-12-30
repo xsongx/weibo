@@ -56,7 +56,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
 
     @Override
     public void process(Page page) {
-        //page.addTargetRequest(url);      	
+/*        //page.addTargetRequest(url);      	
     	if (page==null)
     		System.exit(0);
     	String txt=page.getRawText();
@@ -70,21 +70,72 @@ public class JfjbWeiboCrawler implements PageProcessor {
 			e1.printStackTrace();
 		}
     	    	
-    	System.out.println(txt);
+    	System.out.println(txt);*/
+    	// 定义如何抽取页面信息，并保存下来		
+		if (page.getUrl().toString().equals("http://weibo.com/jfjb")) {
+            System.out.println("从微博首页中抽取URL...\n");
+            List<String> wburlall=homepageprocess(page);
+           page.addTargetRequests(wburlall);
+        } else { 
+        	if (page.getUrl().regex("http://www\\.weibo\\.com/d+/S").toString() != null); { 
+            System.out.println("从独立微博中抽取所有信息...\n\n");
+            weibopageprocess(page);
+        }  
+        }
     }
-    public static void Login() {
-	    WebDriver driver;
-		driver = new ChromeDriver();
-		driver.get("http://weibo.com/");
-	    
-	     //模拟登陆代码
-		WebElement loginUN = driver.findElement(By.name("username"));
-		loginUN.sendKeys("username");
-		WebElement loginPW = driver.findElement(By.name("password"));
-		loginPW.sendKeys("password");
-		WebElement loginclick = driver.findElement(By.name("submit"));
-		loginclick.submit();
-    }
+  //定制微博首页的处理逻辑：模拟下拉；点击下一页；抽取所有微博的href；保存到待抽取队列。
+  		public  List<String>  homepageprocess(Page page) {
+  	        //从首页中抽取微博网址链接加入后续抽取队列中		
+
+          List<String>  weiboURL = page.getHtml()
+  				.xpath("//*[@node-type='feed_list_item_date']/@href").all();
+  	    System.out.println("weiboURL:"+weiboURL+"\n");
+  	    //page.addTargetRequests(weiboURL);
+  	        return weiboURL;
+  	    }
+  		
+  		
+  //定制独立微博页面信息抽取	    
+  	public void weibopageprocess(Page page){
+  		System.out.println("以下为独立微博页面信息\n"+page.getRawText()+"-----------结束--------\n");
+
+  		 List<String> WB = page.getHtml().xpath("//*[@class='WB_feed_detail clearfix']/[@class='WB_detail']/allText()").all();
+  	        for (String WBinfo : WB) {
+  	            String mid = xpath("//*div[@mid]/allText()").select(WBinfo);
+  	            String Omid = xpath("//*div[@Omid]/allText()").select(WBinfo);
+  	            String WB_text=xpath("//*[@node-type='feed_list_content']/allText()").select(WBinfo);
+  	            String title=xpath("//*div[@node-type='feed_list_item_date']/@title/text()").select(WBinfo);
+  	            
+  	            String WB_url = xpath("//*div[@class='WB_from S_txt2']/@href").select(WBinfo);
+  	                 if(WB_url!=null)
+  	                 {
+  	            Request request = new Request(WB_url).setPriority(0).putExtra("WBinfo", WB_url);
+  	            page.addTargetRequest(request);
+  	            System.out.println("mid:"+mid+"Omid:"+Omid+"WB_text:"+WB_text+"title:"+title+"\n\n");
+  	            }
+  	        }
+  		
+  	        List<String> WB_reply = page.getHtml().xpath("//*[@node-type='comment_detail']/allText()").all();
+  	        for (String replyinfo : WB_reply) {
+  	            String usercard = xpath("//*div[@node-type='replywrap']/[@class='WB_text']/@usercard/text()").select(replyinfo);
+  	            String title = xpath("//*div[@class='WB_func clearfix']/[@class='WB_hadle W_fr']/[@class='WB_from s_txt2']/allText()").select(replyinfo);
+  	            String comment_id=xpath("//*div[@node-type='comment_list']/[@class='list_li S_line1 clearfix']/@comment_id/text()").select(replyinfo);
+  	            String comment=xpath("//*div[@node-type='replywrap']/[@class='WB_text']/allText()").select(replyinfo);
+  	            String username = xpath("//*div[@node-type='replywrap']/[@class='WB_text']/@ucardcof/text()").select(replyinfo);
+  	            String userurl = xpath("//*div[@node-type='replywrap']/[@class='WB_text']/@href").select(replyinfo);
+  	                 if(userurl!=null){	                 
+  	            Request request = new Request(userurl).setPriority(0).putExtra("replyinfo", userurl);
+  	            page.addTargetRequest(request);}
+  	            System.out.println("usercard:"+usercard+"title:"+title+"comment_id:"+comment_id+"comment:"+comment+"username:"+username+"userurl:"+userurl+"\n\n");
+  	        }
+  		
+  	        List<String> WB_forward = page.getHtml().xpath("//*[@node-type='forward_detail']/allText()").all();
+  	        for (String forwardinfo : WB_forward) {
+  	            String forwardmid = xpath("//*[@action-type='feed_list_item']/@mid/text()").select(forwardinfo);
+  	            System.out.println("forwardmid:"+forwardmid+"\n\n");  
+  	        }	
+  	}
+
 
     @Override
     public Site getSite() {
@@ -100,7 +151,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
 	 */
 	public static void main(String[] args) throws JSONException {
 		SeleniumDownloader downlder=new SeleniumDownloader("/media/work/gitbase/chromedriver");
-		downlder.setSleepTime(4000);
+		downlder.setSleepTime(6000);
 /*		SinaWeibo weibo = new SinaWeibo("xsongx", "jiajia20090924");
 		String loginin=weibo.login();
         if(loginin != null) {
@@ -112,7 +163,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
             System.out.println("登录失败！");
             System.exit(0);
         }*/
-        Login();
+        //Login();
 		Spider.create(new JfjbWeiboCrawler())
         .pipeline(new FilePipeline("/media/work/gitbase/weibo/weixinCrawler/data/"))
         .setDownloader(downlder)
