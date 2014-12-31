@@ -210,7 +210,9 @@ public class SeleniumDownloader implements Downloader, Closeable {
 				        } catch (InterruptedException e) {
 				            e.printStackTrace();
 				        }
+				       if (url.startsWith("http://weibo.com/jfjb")){
 				        windowScroll(webDriver);
+				       }
 				        WebElement webElement = webDriver.findElement(By.xpath("/html"));
 				        String content = webElement.getAttribute("outerHTML");
 				        Page page = new Page();
@@ -223,9 +225,11 @@ public class SeleniumDownloader implements Downloader, Closeable {
 					}
 			}
 			catch(NoSuchElementException e) {
-				logger.info("Already login!");
+				logger.info("Already login!");				
 			}        
-        windowScroll(webDriver);
+        if (url.startsWith("http://weibo.com/jfjb")){
+	        windowScroll(webDriver);
+	       }
         WebElement webElement = webDriver.findElement(By.xpath("/html"));
         String content = webElement.getAttribute("outerHTML");
         Page page = new Page();

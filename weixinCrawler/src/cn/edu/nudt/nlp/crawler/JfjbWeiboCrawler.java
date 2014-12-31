@@ -72,7 +72,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
     	System.out.println(txt);*/
     	
     	// 定义如何抽取页面信息，并保存下来		
-		if (page.getUrl().toString().equals("http://weibo.com/jfjb")) {
+		if (page.getUrl().toString().startsWith("http://weibo.com/jfjb")) {
             System.out.println("从微博首页中抽取URL...\n");
             List<String> wburlall=homepageprocess(page);
            page.addTargetRequests(wburlall);
@@ -87,10 +87,11 @@ public class JfjbWeiboCrawler implements PageProcessor {
   		public  List<String>  homepageprocess(Page page) {
   	        //从首页中抽取微博网址链接加入后续抽取队列中		
 
-          List<String>  weiboURL = page.getHtml()
-  				.xpath("//*[@node-type='feed_list_item_date']/@href").all();
-  	    System.out.println("weiboURL:"+weiboURL+"\n");
-  	    //page.addTargetRequests(weiboURL);
+  			List<String>  weiboURL = page.getHtml().xpath("//*[@node-type='feed_list_item_date']/@href").all();
+  			String nextpage=page.getHtml().xpath("//a[@class='page next S_txt1 S_line1']/@href").get();
+  			weiboURL.add(0, nextpage);
+  			System.out.println("weiboURL:"+weiboURL+"\n");
+  			//page.addTargetRequests(weiboURL);
   	        return weiboURL;
   	    }
   		
@@ -164,7 +165,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
             System.exit(0);
         }*/
         //Login();
-		Spider.create(new JfjbWeiboCrawler())
+		Spider.create(new JfjbWeiboCrawler()).thread(5)
         .pipeline(new FilePipeline("/media/work/gitbase/weibo/weixinCrawler/data/"))
         .setDownloader(downlder)
         .addUrl("http://weibo.com/jfjb")
