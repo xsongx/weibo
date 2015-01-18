@@ -34,7 +34,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import redis.clients.jedis.Pipeline;
-
 import us.codecraft.webmagic.*;
 import us.codecraft.webmagic.downloader.selenium.SeleniumDownloader;
 import us.codecraft.webmagic.downloader.selenium.WebDriverPool;
@@ -52,12 +51,11 @@ public class JfjbWeiboCrawler implements PageProcessor {
 
     private Site site;
     private String url = "http://weibo.com/jfjb";
-    private int sleeptime=1000;
-    private List<String> wburlall=new ArrayList<String>();
+    private int sleeptime=4000;
 
     @Override
     public void process(Page page) {
-    	
+            	
     	// 定义如何抽取页面信息，并保存下来		
 		if (page.getUrl().toString().startsWith("http://weibo.com/jfjb")) {
             System.out.println("从微博首页中抽取URL...\n");
@@ -66,7 +64,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
         } else { 
         	if (page.getUrl().regex("http://www\\.weibo\\.com/d+/S").toString() != null); { 
             System.out.println("从独立微博中抽取所有信息...\n");
-            //weibopageprocess(page);            
+            weibopageprocess(page);            
             
         }  
         }
@@ -79,7 +77,7 @@ public class JfjbWeiboCrawler implements PageProcessor {
   			try{
   				//查找下一页元素
   				String nextpage=page.getHtml().xpath("//a[@class='page next S_txt1 S_line1']/@href").get();
-  				weiboURL.add(nextpage);
+  				weiboURL.add(0, nextpage);
   			}
   			catch(NoSuchElementException e){
   				System.out.println("No more page!");
@@ -223,9 +221,12 @@ public class JfjbWeiboCrawler implements PageProcessor {
 		System.out.println("forward_time:"+forward_time);
 		}
 		
-        } 
+        }
+        
 
-  	 @Override
+  	
+ 
+    @Override
     public Site getSite() {
         if (null == site) {
             site = Site.me().setDomain("weibo.com").setSleepTime(3000);
@@ -238,10 +239,10 @@ public class JfjbWeiboCrawler implements PageProcessor {
 	 * @throws JSONException 
 	 */
 	public static void main(String[] args) throws JSONException {
-		SeleniumDownloader downlder=new SeleniumDownloader("/media/work/gitbase/chromedriver");
+		SeleniumDownloader downlder=new SeleniumDownloader("d:\\chromedriver.exe");
 		downlder.setSleepTime(6000);
 		Spider.create(new JfjbWeiboCrawler()).thread(1)
-        .pipeline(new FilePipeline("/media/work/gitbase/weibo/weixinCrawler/data/"))
+        .pipeline(new FilePipeline("D:/网页爬取结果"))
         .setDownloader(downlder)
         .addUrl("http://weibo.com/jfjb")
         .run();

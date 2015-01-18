@@ -1,0 +1,38 @@
+USE `jfjbwb`;
+
+/*Table structure for table `jfjbwb` */
+
+DROP TABLE IF EXISTS `weiboInfo`;
+
+CREATE TABLE `weiboInfo` (
+  `weiboID` varchar(30) collate utf8_bin NOT NULL default 'null',
+  `weiboURL` varchar(100) collate utf8_bin NOT NULL,
+  `weiboTEXT` varchar(100) collate utf8_bin NOT NULL,
+  `weiboTIME` datetime default NULL,
+  `weiboAUTHOR` varchar(30) collate utf8_bin NOT NULL default 'null',
+  `weiboZFS` varchar(30) collate utf8_bin NOT NULL,
+  `weiboPLS` varchar(30) collate utf8_bin NOT NULL,
+  `weiboDZS` varchar(30) collate utf8_bin NOT NULL,
+  PRIMARY KEY  (`weiboID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+DROP TABLE IF EXISTS `replyInfo`;
+
+CREATE TABLE `replyInfo` (
+  `comment_id` varchar(30) collate utf8_bin NOT NULL default 'null',
+  `comment_text` varchar(100) collate utf8_bin NOT NULL,
+  `comment_author` varchar(30) collate utf8_bin NOT NULL,
+  `comment_time` datetime default NULL,  
+  PRIMARY KEY  (`comment_id`)
+  FOREIGN KEY  (`comment_id`) references weiboInfo (weiboID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+DROP TABLE IF EXISTS `forwardInfo`;
+CREATE TABLE `forwardInfo` (
+  `forward_id` varchar(30) collate utf8_bin NOT NULL default 'null',
+  `origin_id` varchar(30) collate utf8_bin NOT NULL default 'null',
+  `forward_time` datetime default NULL,  
+  PRIMARY KEY  (`forward_id`)
+  FOREIGN KEY  (`forward_id`) references weiboInfo (weiboID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+

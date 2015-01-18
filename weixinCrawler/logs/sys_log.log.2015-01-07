@@ -1,0 +1,226 @@
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 2922 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1420 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 28038 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.Spider 47064 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.NullPointerException
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.homepageprocess(JfjbWeiboCrawler.java:92)
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.process(JfjbWeiboCrawler.java:78)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 47068 INFO   - Quit webDriverChromeDriver: chrome on LINUX (a61ba09f046b9ea1980967330e0cf704)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1378 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27606 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.Spider 46514 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.NullPointerException
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.homepageprocess(JfjbWeiboCrawler.java:93)
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.process(JfjbWeiboCrawler.java:79)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 46518 INFO   - Quit webDriverChromeDriver: chrome on LINUX (28700305a0d91e16398263404d82e87d)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1881 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1666 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27951 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.Spider 46878 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.NullPointerException
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.homepageprocess(JfjbWeiboCrawler.java:97)
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.process(JfjbWeiboCrawler.java:78)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 46881 INFO   - Quit webDriverChromeDriver: chrome on LINUX (c9c570e3e928a7473c5f4d08b2b75ffc)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1388 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1505 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27708 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.Spider 74972 ERROR  - process request Request{url='http://weibo.com/jfjb', method='null', extras=null, priority=0} error
+java.lang.NullPointerException
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.homepageprocess(JfjbWeiboCrawler.java:97)
+	at cn.edu.nudt.nlp.crawler.JfjbWeiboCrawler.process(JfjbWeiboCrawler.java:78)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1921 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 54986 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 129394 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=2#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 136288 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 192891 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=3#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 199777 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1345 INFO   - downloading page http://weibo.com/jfjb
+main - us.codecraft.webmagic.downloader.selenium.WebDriverPool 50085 INFO   - Quit webDriverChromeDriver: chrome on LINUX (9d388e29e3b03c5327184ce90effe448)
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1436 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 50844 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=2#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 57729 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 73104 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=3#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 80008 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 95357 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=4#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 102224 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 117557 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=5#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 124613 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 139959 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=6#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 146790 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 162077 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=7#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 168976 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 184320 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=8#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 191524 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 206910 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=9#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 214385 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 229506 INFO   - downloading page http://weibo.com/2280198017/BEpEgqivZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 236536 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 239794 INFO   - downloading page http://weibo.com/2280198017/BEuKQaWZj?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 247023 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 250174 INFO   - downloading page http://weibo.com/2280198017/BEuyFbDni?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 257116 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 260248 INFO   - downloading page http://weibo.com/2280198017/BEuoukaBd?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1307 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49585 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=2#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 56493 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 71924 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=3#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 78864 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 94214 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=4#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 101107 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 116441 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=5#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123318 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 138629 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=6#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 146137 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 161460 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=7#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 168286 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 183596 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=8#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 190399 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 205700 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=9#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 212634 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 227901 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=10#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 242189 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 257457 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=11#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 264336 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 279633 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=12#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 286654 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 301919 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=13#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 308836 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 324096 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=14#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 330953 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 346202 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=15#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 353040 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 368291 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=16#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 375094 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 390356 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=17#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 397172 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 412423 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=18#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 419288 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 434544 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=19#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 441631 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 456874 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=20#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 463690 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 478920 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=21#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 485758 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 501014 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=22#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 507858 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 523103 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=23#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 529966 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 545204 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=24#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 552149 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 567415 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=25#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 574325 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 589574 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=26#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 596398 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 611684 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=27#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 618841 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 634103 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=28#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 640974 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 656252 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=29#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 663426 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 678686 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=30#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 685593 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 700846 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=31#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 707937 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 723226 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=32#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 730013 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 745307 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=33#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 752110 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 767376 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=34#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 774206 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 789444 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=35#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 796410 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 811701 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=36#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 818563 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 833811 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=37#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 840656 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 855889 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=38#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 862713 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 877971 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=39#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 884763 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 900012 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=40#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 907327 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 922590 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=41#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 929569 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 944812 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=42#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 951813 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 967058 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=43#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 973861 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 989125 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=44#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 995912 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1011156 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=45#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1018224 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1033460 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=46#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1040443 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1055701 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=47#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1063112 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1078366 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=48#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1085337 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1100618 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=49#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1107417 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1122654 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=50#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1129578 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1144830 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=51#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1151769 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1167018 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=52#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1173806 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1189052 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=53#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1195998 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1211240 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=54#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1218137 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1233418 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=55#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1240300 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1255546 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=56#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1262394 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1277661 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=57#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1284500 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1299789 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=58#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1306618 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1321872 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=59#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1328817 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1344124 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=60#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1350920 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1366192 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=61#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1373243 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1388510 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=62#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1395392 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1410607 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=63#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1417402 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1432640 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=64#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1439527 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1454779 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=65#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1461632 INFO   - Already login!

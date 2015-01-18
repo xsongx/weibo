@@ -1,0 +1,508 @@
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 507879 INFO   - downloading page http://weibo.com/2280198017/BDcMk0p5F
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 514622 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1383 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49553 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=2#feedtop
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 50917 INFO   - downloading page http://weibo.com/2280198017/BCDEJp7mx?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 52417 INFO   - downloading page http://weibo.com/2280198017/BDcMk0p5F
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 54115 INFO   - downloading page http://weibo.com/2280198017/BDhDmuCp8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 56082 INFO   - downloading page http://weibo.com/2280198017/BDhxaA1UX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 56562 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 72086 INFO   - downloading page http://weibo.com/2280198017/BDhkTpOpI?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 78116 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 79468 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 82633 INFO   - downloading page http://weibo.com/2280198017/BDheNbpMH?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 83109 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 87407 INFO   - downloading page http://weibo.com/2280198017/BDelzcUgx
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 88557 INFO   - downloading page http://weibo.com/2280198017/BDhcy48cb?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 90429 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 90559 INFO   - downloading page http://weibo.com/2280198017/BDh8IbGh3?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 92295 INFO   - downloading page http://weibo.com/2280198017/BDgWzeyBN?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 93539 INFO   - downloading page http://weibo.com/2280198017/BDgTgcevL?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 94106 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 97141 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 97526 INFO   - downloading page http://weibo.com/2280198017/BDgKkrwcC?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 99106 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 100261 INFO   - downloading page http://weibo.com/2280198017/BDgEHrM66?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 100377 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 102273 INFO   - downloading page http://weibo.com/2280198017/BDgxN1IyZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 103479 INFO   - downloading page http://weibo.com/2280198017/BDglEliHM?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 104467 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 107070 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 107731 INFO   - downloading page http://weibo.com/2280198017/BDg9O4JQW?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 109355 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 110153 INFO   - downloading page http://weibo.com/2280198017/BDfXN8hTZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 110290 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 112441 INFO   - downloading page http://weibo.com/2280198017/BDfSHh8lZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 113585 INFO   - downloading page http://weibo.com/2280198017/BDfLxFmHd?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 114481 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 116730 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 116870 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 119189 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 119852 INFO   - downloading page http://weibo.com/2280198017/BDfzowrHm?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 120010 INFO   - downloading page http://weibo.com/2280198017/BDfn8tVNj?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 120493 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 122317 INFO   - downloading page http://weibo.com/2280198017/BDfjv1HQz?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123678 INFO   - downloading page http://weibo.com/2280198017/BDfaW3XgF?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123766 INFO   - downloading page http://weibo.com/2280198017/BDeYKtrRb?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 127063 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 127081 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 129701 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 130307 INFO   - downloading page http://weibo.com/2280198017/BDeSlmjgm?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 130403 INFO   - downloading page http://weibo.com/2280198017/BDeRQB2Ea?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 130520 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 130657 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 132853 INFO   - downloading page http://weibo.com/2280198017/BDeLm6XAy
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 133653 INFO   - downloading page http://weibo.com/2280198017/BDeN58HIA?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 133883 INFO   - downloading page http://weibo.com/2280198017/BDeLm6XAy?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 137372 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 137644 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 139722 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 140483 INFO   - downloading page http://weibo.com/2280198017/BDeCD67HV?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 140616 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 140831 INFO   - downloading page http://weibo.com/2280198017/BDeAsD1dU?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 141339 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 142824 INFO   - downloading page http://weibo.com/2280198017/BDeuQxtIn?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 143714 INFO   - downloading page http://weibo.com/2280198017/BDeoK3Maa?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 144473 INFO   - downloading page http://weibo.com/2280198017/BDelzcUgx?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 147643 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 147960 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 149729 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 150784 INFO   - downloading page http://weibo.com/2280198017/BDec5dXkn?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 150808 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 151065 INFO   - downloading page http://weibo.com/2280198017/BDdZTmf0R?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 151902 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 152877 INFO   - downloading page http://weibo.com/2280198017/BDdNHc7N8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 153951 INFO   - downloading page http://weibo.com/2280198017/BDdBwbeto?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 155091 INFO   - downloading page http://weibo.com/2280198017/BDdqdh8VO?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 157736 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 158027 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 159679 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 160710 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 160944 INFO   - downloading page http://weibo.com/2280198017/BDddabPTF?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 161205 INFO   - downloading page http://weibo.com/2280198017/BDd1NuQy9?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 161804 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 162788 INFO   - downloading page http://weibo.com/2280198017/BDcQrBZSP?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 163841 INFO   - downloading page http://weibo.com/2280198017/BDcMk0p5F?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 164993 INFO   - downloading page http://weibo.com/2280198017/BDcCFmTH7?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 167977 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 168196 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 169578 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 170635 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 171110 INFO   - downloading page http://weibo.com/2280198017/BDcqzmnIQ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 171406 INFO   - downloading page http://weibo.com/2280198017/BDcdRCwiy?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 172006 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 172765 INFO   - downloading page http://weibo.com/2280198017/BDc27tIUX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 173844 INFO   - downloading page http://weibo.com/2280198017/BDbRzgmEj?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 175154 INFO   - downloading page http://weibo.com/2280198017/BDbPX5q4r?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 178333 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 178366 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 179579 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 180786 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 181583 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=3#feedtop
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 181678 INFO   - downloading page http://weibo.com/2280198017/BDbLQFTHN?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 182561 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 182712 INFO   - downloading page http://weibo.com/2280198017/BDbDNApzv?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 183888 INFO   - downloading page http://weibo.com/2280198017/BDbrz4JBF?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 185728 INFO   - downloading page http://weibo.com/2280198017/BDbeZfzDr?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 188933 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 189264 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 189427 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 192141 INFO   - downloading page http://weibo.com/2280198017/BDb2PcxPE?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 192532 INFO   - downloading page http://weibo.com/2280198017/BDaR2rlvk?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 192710 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 194577 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 196149 INFO   - downloading page http://weibo.com/2280198017/BD8kYet9v?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 197710 INFO   - downloading page http://weibo.com/2280198017/BD842lBeA
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 199300 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 199554 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 202607 INFO   - downloading page http://weibo.com/2280198017/BD87l9ZQq?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 202692 INFO   - downloading page http://weibo.com/2280198017/BD86Arzac?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 202922 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 204753 INFO   - downloading page http://weibo.com/2280198017/BD842lBeA?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 204787 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 206111 INFO   - downloading page http://weibo.com/2280198017/BD7TZ9jnG?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 208100 INFO   - downloading page http://weibo.com/2280198017/BD7IhaIYJ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 209583 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 209939 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 211432 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 212769 INFO   - downloading page http://weibo.com/2280198017/BD7w22UrW?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 213094 INFO   - downloading page http://weibo.com/2280198017/BD7sf6tDb?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 213147 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 214560 INFO   - downloading page http://weibo.com/2280198017/BD7jQrPYN?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 215158 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 216330 INFO   - downloading page http://weibo.com/2280198017/BD77I9KgP?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 218459 INFO   - downloading page http://weibo.com/2280198017/BD6VwhD6k?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 220064 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 220098 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 221407 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 223318 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 223337 INFO   - downloading page http://weibo.com/2280198017/BD6xc3wnn?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 223443 INFO   - downloading page http://weibo.com/2280198017/BD6kDaJ4B?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 224522 INFO   - downloading page http://weibo.com/2280198017/BD68OEffH?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 225764 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 226454 INFO   - downloading page http://weibo.com/2280198017/BD5YH2Hyl?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 228940 INFO   - downloading page http://weibo.com/2280198017/BD5TooBu6?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 230189 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 230223 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 231435 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 233457 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 233489 INFO   - downloading page http://weibo.com/2280198017/BD5Ksl7T6?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 233580 INFO   - downloading page http://weibo.com/2280198017/BD5yh6KGe?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 234579 INFO   - downloading page http://weibo.com/2280198017/BD1CIfwAR
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 236232 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 236583 INFO   - downloading page http://weibo.com/2280198017/BD5qM1bmP?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 239494 INFO   - downloading page http://weibo.com/2280198017/BD5m5gmBV?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 240363 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 240753 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 241647 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 243766 INFO   - downloading page http://weibo.com/2280198017/BD59UfRUB?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 243943 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 243996 INFO   - downloading page http://weibo.com/2280198017/BD47honps
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 244882 INFO   - downloading page http://weibo.com/2280198017/BD53EeYyU?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 246633 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 247048 INFO   - downloading page http://weibo.com/2280198017/BD4XIoUqY?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 249824 INFO   - downloading page http://weibo.com/2280198017/BD4VahQ9z?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 250958 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 251029 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 252494 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 253889 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 254235 INFO   - downloading page http://weibo.com/2280198017/BD4LyzEWM?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 254381 INFO   - downloading page http://weibo.com/2280198017/BD4zpoDl8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 255586 INFO   - downloading page http://weibo.com/2280198017/BD4ne60Ic?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 256988 INFO   - downloading page http://weibo.com/2280198017/BD4aCvVAA?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 257330 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 260517 INFO   - downloading page http://weibo.com/2280198017/BD47honps?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 261341 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 261483 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 262605 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 264190 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 264688 INFO   - downloading page http://weibo.com/2280198017/BD3YTiiwj?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 264784 INFO   - downloading page http://weibo.com/2280198017/BD3MFmmcC?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 265809 INFO   - downloading page http://weibo.com/2280198017/BD3ATuKWw?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 267306 INFO   - downloading page http://weibo.com/2280198017/BD3rT0xbp?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 267569 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 271085 INFO   - downloading page http://weibo.com/2280198017/BD3c9kzfI?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 271659 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 271680 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 272695 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 274830 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 275054 INFO   - downloading page http://weibo.com/2280198017/BD3424kbs?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 275062 INFO   - downloading page http://weibo.com/2280198017/BD2ZYmhJJ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 275976 INFO   - downloading page http://weibo.com/2280198017/BD2NQAbjP?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 277971 INFO   - downloading page http://weibo.com/2280198017/BD2HQ0fKW?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 278417 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 281635 INFO   - downloading page http://weibo.com/2280198017/BD2vx1Y3U?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 281923 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 282422 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 283216 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 285131 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=4#feedtop
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 285368 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 285574 INFO   - downloading page http://weibo.com/2280198017/BCP958VPU
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 286377 INFO   - downloading page http://weibo.com/2280198017/BD2tNb9q8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 288443 INFO   - downloading page http://weibo.com/2280198017/BD2r2mPsH?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 288698 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 292024 INFO   - downloading page http://weibo.com/2280198017/BD2pqdaSA?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 292553 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 292620 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 293584 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 295359 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 295913 INFO   - downloading page http://weibo.com/2280198017/BD2cQoVfM?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 296897 INFO   - downloading page http://weibo.com/2280198017/BD2184BPs?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 298461 INFO   - downloading page http://weibo.com/2280198017/BD1PiCVCV?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 299316 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 302514 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 302642 INFO   - downloading page http://weibo.com/2280198017/BD1CIfwAR?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 302852 INFO   - downloading page http://weibo.com/2280198017/BD1mu965U?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 304212 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 305670 INFO   - downloading page http://weibo.com/2280198017/BCZsmkqbC?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 306117 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 307494 INFO   - downloading page http://weibo.com/2280198017/BCYOgl7Sm?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 309363 INFO   - downloading page http://weibo.com/2280198017/BCYFLtjxz?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 309903 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 310838 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 312582 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 313276 INFO   - downloading page http://weibo.com/2280198017/BCYtSe4wE?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 314058 INFO   - downloading page http://weibo.com/2280198017/BCYiNeZP4?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 314263 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 315721 INFO   - downloading page http://weibo.com/2280198017/BCY5xcllr?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 316801 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 317607 INFO   - downloading page http://weibo.com/2280198017/BCXUYCV7P?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 319978 INFO   - downloading page http://weibo.com/2280198017/BCXHbw8YK?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 320387 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 321125 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 323196 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 323596 INFO   - downloading page http://weibo.com/2280198017/BCXvpEqYc?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 324274 INFO   - downloading page http://weibo.com/2280198017/BCXiPxwfJ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 324409 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 326325 INFO   - downloading page http://weibo.com/2280198017/BCX6eypMU?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 327103 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 327536 INFO   - downloading page http://weibo.com/2280198017/BCUb9lYrO
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 330222 INFO   - downloading page http://weibo.com/2280198017/BCX2syaB5?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 330409 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 331437 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 333087 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 333517 INFO   - downloading page http://weibo.com/2280198017/BCWYddDMO?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 334265 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 334624 INFO   - downloading page http://weibo.com/2280198017/BCWJZvH7M?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 336199 INFO   - downloading page http://weibo.com/2280198017/BCDEJp7mx
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 337475 INFO   - downloading page http://weibo.com/2280198017/BCWH21x3p?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 337804 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 340763 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 341107 INFO   - downloading page http://weibo.com/2280198017/BCWw7jIp9?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 341969 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 343463 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 343961 INFO   - downloading page http://weibo.com/2280198017/BCWjXwSqe?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 344758 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 345156 INFO   - downloading page http://weibo.com/2280198017/BCWamEyvB?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 346672 INFO   - downloading page http://weibo.com/2280198017/BCW3i9Mjo?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 347962 INFO   - downloading page http://weibo.com/2280198017/BCW3gq6le?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 348156 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 351167 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 351324 INFO   - downloading page http://weibo.com/2280198017/BCVYhBb11?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 352250 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 353678 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 354283 INFO   - downloading page http://weibo.com/2280198017/BCVRypLsJ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 355261 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 355431 INFO   - downloading page http://weibo.com/2280198017/BCVDOcfub?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 356788 INFO   - downloading page http://weibo.com/2280198017/BCVtlzvgR?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 358118 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 358384 INFO   - downloading page http://weibo.com/2280198017/BCVsrsSqV?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 361266 INFO   - downloading page http://weibo.com/2280198017/BCVl4jKpC?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 361462 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 362076 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 364201 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 364700 INFO   - downloading page http://weibo.com/2280198017/BCV8S8vLy?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 365188 INFO   - downloading page http://weibo.com/2280198017/BCUWijJAj?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 366299 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 367342 INFO   - downloading page http://weibo.com/2280198017/BCUKvzqZV?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 368605 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 369534 INFO   - downloading page http://weibo.com/2280198017/BCUH3EJai?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 371748 INFO   - downloading page http://weibo.com/2280198017/BCUylvaBJ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 371789 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 372103 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 374760 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 374944 INFO   - downloading page http://weibo.com/2280198017/BCUq5qrha?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 375264 INFO   - downloading page http://weibo.com/2280198017/BCUmytej8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 377091 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 377911 INFO   - downloading page http://weibo.com/2280198017/BCUm9CYS0?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 379050 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 380266 INFO   - downloading page http://weibo.com/2280198017/BCUhQe6PZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 381757 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 382230 INFO   - downloading page http://weibo.com/2280198017/BCUbIelxG?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 382423 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 384968 INFO   - downloading page http://weibo.com/2280198017/BCUb9lYrO?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 385139 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 385521 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=5#feedtop
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 387761 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 388247 INFO   - downloading page http://weibo.com/2280198017/BCUa5rlIX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 389570 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 390913 INFO   - downloading page http://weibo.com/2280198017/BCTXRuPDd?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 392018 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 392661 INFO   - downloading page http://weibo.com/2280198017/BCTLEth1x?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 393472 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 395186 INFO   - downloading page http://weibo.com/2280198017/BCTzsgtpa?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 396198 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 397730 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 399333 INFO   - downloading page http://weibo.com/2280198017/BCTnl8Pfm?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 399806 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 400916 INFO   - downloading page http://weibo.com/2280198017/BCTb7eP51?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 401915 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 403038 INFO   - downloading page http://weibo.com/2280198017/BCSYyhWKV?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 405133 INFO   - downloading page http://weibo.com/2280198017/BCSMTdqHQ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 406597 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 408481 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 409497 INFO   - downloading page http://weibo.com/2280198017/BCSADwk2p?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 409692 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 409824 INFO   - downloading page http://weibo.com/2280198017/BCSowlcvf?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 411621 INFO   - downloading page http://weibo.com/2280198017/BCScjijdf?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 412150 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 412961 INFO   - downloading page http://weibo.com/2280198017/BCRVY5si3?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 415415 INFO   - downloading page http://weibo.com/2280198017/BCRNRaLIF?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 416236 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 417234 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 418550 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 419471 INFO   - downloading page http://weibo.com/2280198017/BCPZE5tLZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 420202 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 420453 INFO   - downloading page http://weibo.com/2280198017/BCPEK41mu?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 421766 INFO   - downloading page http://weibo.com/2280198017/BCPqvrPfk?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 423103 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 423359 INFO   - downloading page http://weibo.com/2280198017/BCPfY6GO5?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 426307 INFO   - downloading page http://weibo.com/2280198017/BCP958VPU?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 426647 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 427627 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 428565 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 429781 INFO   - downloading page http://weibo.com/2280198017/BCP3oxJBJ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 430231 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 430881 INFO   - downloading page http://weibo.com/2280198017/BCOReujba?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 431723 INFO   - downloading page http://weibo.com/2280198017/BCOF1sBOK?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 433383 INFO   - downloading page http://weibo.com/2280198017/BCOsR1RBL?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 434070 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 437149 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 437352 INFO   - downloading page http://weibo.com/2280198017/BCOgj2asR?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 438399 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 439279 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 440298 INFO   - downloading page http://weibo.com/2280198017/BCO46fTtX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 440971 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 441648 INFO   - downloading page http://weibo.com/2280198017/BCNS0jKnq?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 442444 INFO   - downloading page http://weibo.com/2280198017/BCNG9oJ0X?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 444131 INFO   - downloading page http://weibo.com/2280198017/BCNu38qp5?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 444546 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 447007 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 447909 INFO   - downloading page http://weibo.com/2280198017/BCNhPcEZB?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 448820 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 449756 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 450076 INFO   - downloading page http://weibo.com/2280198017/BCN5Gj2n6?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 451622 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 452099 INFO   - downloading page http://weibo.com/2280198017/BCMTvlqcV?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 452948 INFO   - downloading page http://weibo.com/2280198017/BCMHho70R?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 454747 INFO   - downloading page http://weibo.com/2280198017/BCMv8sS9b?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 454956 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 457016 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 458203 INFO   - downloading page http://weibo.com/2280198017/BCMiVoxsL?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 459215 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 460255 INFO   - downloading page http://weibo.com/2280198017/BCM6Mvns8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 460609 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 461999 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 462497 INFO   - downloading page http://weibo.com/2280198017/BCLUzr0TR?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 463937 INFO   - downloading page http://weibo.com/2280198017/BCLInyr0G?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 465176 INFO   - downloading page http://weibo.com/2280198017/BCLwcDc2H?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 465711 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 467889 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 468958 INFO   - downloading page http://weibo.com/2280198017/BCLjDF7oj?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 469989 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 470523 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 470996 INFO   - downloading page http://weibo.com/2280198017/BCL7Qnmgo?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 472349 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 473099 INFO   - downloading page http://weibo.com/2280198017/BCKVGx2O5?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 473583 INFO   - downloading page http://weibo.com/2280198017/BCKJvf6jt?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 475489 INFO   - downloading page http://weibo.com/2280198017/BCKwY6wcm?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 475722 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 477688 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 478920 INFO   - downloading page http://weibo.com/2280198017/BCKlbExxI?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 480107 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 480349 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 480879 INFO   - downloading page http://weibo.com/2280198017/BCK8Y2Erp?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 482732 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 483451 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=6#feedtop
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 483697 INFO   - downloading page http://weibo.com/2280198017/BCJWQzmlW?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 485856 INFO   - downloading page http://weibo.com/2280198017/BCJKBsxf0?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 486238 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 487801 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 489506 INFO   - downloading page http://weibo.com/2280198017/BCJysgtXB?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 490995 INFO   - downloading page http://weibo.com/2280198017/BCJlT4b8q?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 491137 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 491361 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 493209 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 494650 INFO   - downloading page http://weibo.com/2280198017/BCJafatpG?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 496299 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 496350 INFO   - downloading page http://weibo.com/2280198017/BCIY0EqID?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 498391 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 499486 INFO   - downloading page http://weibo.com/2280198017/BCILM5yDG?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 501621 INFO   - downloading page http://weibo.com/2280198017/BCIzyavbw?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 501861 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 503708 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 505268 INFO   - downloading page http://weibo.com/2280198017/BCIt5dLsb?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 506635 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 506920 INFO   - downloading page http://weibo.com/2280198017/BCInnsi8n?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 506959 INFO   - downloading page http://weibo.com/2280198017/BCH3ts2ur?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 508809 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 509845 INFO   - downloading page http://weibo.com/2280198017/BCFXfbC43?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 512047 INFO   - downloading page http://weibo.com/2280198017/BCFP4s4VL?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 512545 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 513931 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 514356 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 515775 INFO   - downloading page http://weibo.com/2280198017/BCFCSwWL8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 516493 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 517152 INFO   - downloading page http://weibo.com/2280198017/BCFqJ4c5u?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 517489 INFO   - downloading page http://weibo.com/2280198017/BCFfd9eyv?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 519499 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 519703 INFO   - downloading page http://weibo.com/2280198017/BCF2q2YLZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 522807 INFO   - downloading page http://weibo.com/2280198017/BCEQc5JOX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 523024 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 524983 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 525166 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 526221 INFO   - downloading page http://weibo.com/2280198017/BCEE2zhgq?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 526677 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 528124 INFO   - downloading page http://weibo.com/2280198017/BCErPf3r2?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 528377 INFO   - downloading page http://weibo.com/2280198017/BCEfFroa1?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 529919 INFO   - downloading page http://weibo.com/2280198017/BCE3vFdZ9?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 530062 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 533345 INFO   - downloading page http://weibo.com/2280198017/BCDXmaSdX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 533636 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 535773 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 535867 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 536787 INFO   - downloading page http://weibo.com/2280198017/BCDVGtO99?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 537377 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 539142 INFO   - downloading page http://weibo.com/2280198017/BCDUommGX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 539232 INFO   - downloading page http://weibo.com/2280198017/BCDRk571n?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 540662 INFO   - downloading page http://weibo.com/2280198017/BCDgPc9xS
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 541313 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 543927 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 544495 INFO   - downloading page http://weibo.com/2280198017/BCDzIx8GZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 546457 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 546634 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 547034 INFO   - downloading page http://weibo.com/2280198017/BCDgPc9xS?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 548087 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 549869 INFO   - downloading page http://weibo.com/2280198017/BCBvae300
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 549985 INFO   - downloading page http://weibo.com/2280198017/BCD7Un6cX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 551316 INFO   - downloading page http://weibo.com/2280198017/BCCSrcUpz?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 10080 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 60004 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=2#feedtop
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 61298 INFO   - downloading page http://weibo.com/2280198017/BD3rT0xbp?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 62872 INFO   - downloading page http://weibo.com/2280198017/BDlamm8QP?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 64538 INFO   - downloading page http://weibo.com/2280198017/BDlg13wLy?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 66140 INFO   - downloading page http://weibo.com/2280198017/BDlis6RjN?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 67127 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 82628 INFO   - downloading page http://weibo.com/2280198017/BDl6jtDHM?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 88090 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 89691 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 92977 INFO   - downloading page http://weibo.com/2280198017/BDl0znJnM?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 94122 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 94537 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 97617 INFO   - downloading page http://weibo.com/2280198017/BDkS7b3rF?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 99061 INFO   - downloading page http://weibo.com/2280198017/BDkFx5eYP?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 99718 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 102921 INFO   - downloading page http://weibo.com/2280198017/BDktHDhpw?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 103298 INFO   - downloading page http://weibo.com/2280198017/BDkhBnRU4?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 103690 INFO   - downloading page http://weibo.com/2280198017/BDkbr2tQ4?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 104361 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 107680 INFO   - downloading page http://weibo.com/2280198017/BDk5lpoXQ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 109696 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 110396 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 110402 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 112869 INFO   - downloading page http://weibo.com/2280198017/BDhMSA3EU?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 113497 INFO   - downloading page http://weibo.com/2280198017/BDcMk0p5F
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 113574 INFO   - downloading page http://weibo.com/2280198017/BDhDmuCp8?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 114144 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 117265 INFO   - downloading page http://weibo.com/2280198017/BDhxaA1UX?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 119677 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 120357 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 120393 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 122808 INFO   - downloading page http://weibo.com/2280198017/BDhkTpOpI?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123490 INFO   - downloading page http://weibo.com/2280198017/BDheNbpMH?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 123607 INFO   - downloading page http://weibo.com/2280198017/BDelzcUgx
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 124148 INFO   - Already login!
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 127317 INFO   - downloading page http://weibo.com/2280198017/BDhcy48cb?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 130460 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 130613 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 130971 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 133656 INFO   - downloading page http://weibo.com/2280198017/BDh8IbGh3?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 133751 INFO   - downloading page http://weibo.com/2280198017/BDgWzeyBN?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 133949 INFO   - downloading page http://weibo.com/2280198017/BDgTgcevL?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 134064 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 134075 INFO   - downloading page http://weibo.com/2280198017/BDgKkrwcC?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 137196 INFO   - downloading page http://weibo.com/2280198017/BDgEHrM66?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 140926 INFO   - Already login!
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 141012 INFO   - Already login!
+pool-1-thread-2 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 141410 INFO   - Already login!
+pool-1-thread-4 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 144020 INFO   - downloading page http://weibo.com/2280198017/BDgxN1IyZ?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-5 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 144107 INFO   - downloading page http://weibo.com/2280198017/BDglEliHM?from=page_1002062280198017_profile&wvr=6&mod=weibotime
+pool-1-thread-3 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 144112 INFO   - Already login!
+main - us.codecraft.webmagic.Spider 0    INFO   - Spider weibo.com started!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 1902 INFO   - downloading page http://weibo.com/jfjb
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 27957 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 49951 INFO   - downloading page http://weibo.com/jfjb?pids=Pl_Official_MyProfileFeed__24&is_search=0&visible=0&is_tag=0&profile_ftype=1&page=2#feedtop
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 56930 INFO   - Already login!
+pool-1-thread-1 - us.codecraft.webmagic.downloader.selenium.SeleniumDownloader 72323 INFO   - downloading page http://weibo.com/2280198017/BD3rT0xbp?from=page_1002062280198017_profile&wvr=6&mod=weibotime
